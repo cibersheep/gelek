@@ -1,0 +1,15 @@
+{
+    "name": "@APP_ID@",
+    "description": "Gelek. Interpreter for Level 9 Computing text adventure games",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "gelek": {
+            "apparmor": "gelek.apparmor",
+            "desktop": "gelek.desktop"
+        }
+    },
+    "version": "@APP_VERSION@",
+    "maintainer": "Joan CiberSheep <cibersheep@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}

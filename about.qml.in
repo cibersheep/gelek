@@ -1,0 +1,164 @@
+/*
+ * About template
+ * By Joan CiberSheep using base file from uNav
+ *
+ * uNav is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * uNav is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ */
+
+import QtQuick 2.4
+import Ubuntu.Components 1.3
+//import Ubuntu.Components.ListItems 1.3 as ListItems
+import "components"
+
+
+Page {
+    id: aboutPage
+    title: "About"
+	
+	//Colors
+	property string lightColor: "#90435e"
+	property string darkColor: "#842244"
+	property string lighterColor: UbuntuColors.porcelain
+
+	//Margins
+	property int marginColumn: units.gu(1)	
+
+	//Properties
+	property string iconAppRute: "../../../graphics/gelek.svg"
+	property string version: "@APP_VERSION@"
+	property string license: "<a href='https://www.gnu.org/licenses/gpl-2.0.html'>GPLv2</a>"
+	property string source: "<a href='https://github.com/cibersheep/gelek'>Github</a>"
+	property string appName: "@APP_NAME@"
+							 
+    header: PageHeader {
+        id: pageHeader
+        title: i18n.tr("About")
+        StyleHints {
+            foregroundColor: lighterColor
+            backgroundColor: darkColor
+            dividerColor: lightColor
+        }
+    }
+
+    Flickable {
+        id: flickable
+        anchors.fill: parent
+        anchors.top: pageHeader.bottom
+        anchors {
+            fill: parent
+            //bottomMargin: units.gu(8)
+        }
+        
+        //contentHeight: levelHistoryColumn.height + units.gu(1)
+
+
+
+    ListModel {
+           id: gameStoriesModel
+
+           Component.onCompleted: initialize()
+
+           function initialize() {
+               gameStoriesModel.append({ category: "App Development", mainText: "Joan CiberSheep", secondaryText: "", link: "https://cibersheep.com/" })
+
+               gameStoriesModel.append({ category: "Code Used from", mainText: "Erkyrath", secondaryText: "remglk (MIT)", link: "https://github.com/erkyrath/remglk" })
+               gameStoriesModel.append({ category: "Code Used from", mainText: "Zarf", secondaryText: "glk (MIT)", link: "http://eblong.com/zarf/glk/" })
+               gameStoriesModel.append({ category: "Code Used from", mainText: "Glen Summers and contributors", secondaryText: "Level 9 interpreter (GPLv2)", license: "GPL 2.0", link: "https://github.com/DavidKinder/Level9" })
+               gameStoriesModel.append({ category: "Code Used from", mainText: "Simon Baldwin", secondaryText:"glk Level 9 interpreter port (GPLv2)", link: "https://github.com/DavidKinder/Level9" })
+               gameStoriesModel.append({ category: "Code Used from", mainText: "WakeRealityDev", secondaryText: "Qt glk implementation (BSD-2-Clause)", link: "https://github.com/WakeRealityDev/Thunderquake_Qt" })
+
+               gameStoriesModel.append({ category: "Special Thanks to", mainText: "Brian Douglass", secondaryText: "for his help with the code, the language and concept, and beta testing", link: "http://bhdouglass.com/" })
+               gameStoriesModel.append({ category: "Special Thanks to", mainText: "Paul Jujuyeh", secondaryText: "for his additional C++ code and support", link: "http://patreon.com/jujuyeh" })
+               gameStoriesModel.append({ category: "Special Thanks to", mainText: "Mikel Larrea", secondaryText: "for his beta testing and feed back", link: "https://github.com/LarreaMikel" })
+
+               gameStoriesModel.append({ category: "Images", mainText: "Images from games and manuals", secondaryText: "are copyrighted by their authors.", link: "" })
+
+               gameStoriesModel.append({ category: "Icons", mainText: "App Icon", secondaryText: "CC-By Kennen Yordle", link: "https://thenounproject.com/kennen.yordle/" })
+               gameStoriesModel.append({ category: "Icons", mainText: "Computer Icon", secondaryText: "CC-By Matthew Hawdon", link: "https://thenounproject.com/matthawdon/" })
+               gameStoriesModel.append({ category: "Icons", mainText: "Save Icon Base", secondaryText: "CC-By i cons", link: "https://thenounproject.com/iconsguru/" })
+            }
+       }
+       ListView {
+               id: gameStoriesView
+
+               model: gameStoriesModel
+               anchors.fill: parent
+               section.property: "category"
+               section.criteria: ViewSection.FullString
+               section.delegate: ListItemHeader {
+                   title: section
+               }
+
+               header: Item {
+                   width: parent.width
+                   height: iconTop.height + units.gu(28)
+                   UbuntuShape {
+                       id: iconTop
+                       width: units.gu(20)
+                       height: width
+                       anchors{
+                           horizontalCenter: parent.horizontalCenter
+                           top: parent.top
+                           topMargin: units.gu(12)
+                       }
+                       aspect: UbuntuShape.Flat
+                       source: Image {
+                           source: iconAppRute
+                       }
+                   }
+		   Label {
+			id: appNameLabel
+			anchors.top: iconTop.bottom
+			anchors.topMargin: units.gu(4)
+			width: parent.width
+			wrapMode: Text.WordWrap
+			horizontalAlignment: Text.AlignHCenter
+			text: i18n.tr(appName)
+			font.bold: true
+		   }
+	   	   Label {
+			id: appInfo
+			anchors.top: appNameLabel.bottom
+			anchors.topMargin: units.gu(2)
+			width: parent.width
+			wrapMode: Text.WordWrap
+			horizontalAlignment: Text.AlignHCenter
+			text: i18n.tr("Version %1. Source %2").arg(version).arg(source)
+			onLinkActivated: Qt.openUrlExternally(link)
+			linkColor: darkColor
+		   }
+		   Label {
+			anchors.top: appInfo.bottom
+			anchors.topMargin: units.gu(2)
+			width: parent.width
+			wrapMode: Text.WordWrap
+			horizontalAlignment: Text.AlignHCenter
+			text: i18n.tr("Under Lincense %1").arg(license)
+			onLinkActivated: Qt.openUrlExternally(link)
+			linkColor: darkColor
+		   }
+               }
+
+               delegate: ListItem {
+                   height: storiesDelegateLayout.height
+                   divider.visible: false
+                   ListItemLayout {
+                       id: storiesDelegateLayout
+                       title.text: mainText
+		       subtitle.text: secondaryText
+                       ProgressionSlot { name: link !== "" ? "next" : ""}
+                   }
+                   onClicked: model.link !== "" ? Qt.openUrlExternally(model.link) : null
+               }
+           }
+    }
+}
+
