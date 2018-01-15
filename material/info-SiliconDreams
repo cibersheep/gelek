@@ -1,0 +1,2636 @@
+
+Introduction 
+
+
+Greetings, adventurer! 
+
+Prepare to enter the future worlds of Silicon Dreams, where Earth Man has started to colonise the outlying reaches of distant galaxies. 
+
+This adventure is a trilogy of Level 9's adventures Snowball, Return to Eden, and Worm in Paradise. The trilogy retains the highly acclaimed quality of the original versions, but now stretches the imagination even further with the addition of graphics, extended text descriptions, an extremely flexible English-language sentence interpreter, and a whole host of user-friendly features which allow the player a more versatile means of communication. 
+
+For the player new to adventure games, the first part of this booklet will explain how to use the keyboard to enter the futuristic age of robots, spacecraft, inflatable dolls and cute furry animals with lousy senses of humour. 
+
+Scenarios have been included to set the scene for each adventure in the trilogy, and point you roughly in the right direction. Further information on what your objectives might be have been included in the "Scoring and Hints' section.
+
+Part two of this booklet contains the novella "Eden Song", by Peter McBride, which will take you even deeper into the fantasy world of Silicon Dreams. 
+
+Good fortune on your quest, and remember that to succeed, you must show courage, determination, skill, cunning, and have a brain the size of a fairly large solar system...! 
+
+
+
+Loading Instructions 
+
+
+Cassette users: To remove a cassette from the box, firmly press the top of the 
+cassette label inwards, and the cassette will pop out. 
+
+Remember to always have a blank cassette or a formatted disk at hand to save your 
+game position on. See part iii (Special Commands) of 'Game instructions' for more 
+information about saving and restoring your game position. 
+
+Each version of Silicon Dreams has a menu program, which will instruct you in the 
+further loading of the program (if necessary). Simply refer to the table below, and 
+select the appropriate loading instruction(s). 
+
+
+Machine 
+
+Cassette 
+
+Disk 
+
+Amstrad CPC 464 
+
+RUN"" 
+
+- 
+
+664 
+
+Type [TAPE and 
+
+- 
+
+6128 
+
+RUN"" 
+
+RUN "MENU" 
+
+Amstrad PCW 
+
+- 
+
+Type MENU from CP/M 
+
+Apple II 
+
+- 
+
+Insert disk in drive and turn the 
+
+machine on. 
+
+Amiga/Mac/Atari ST 
+
+- 
+
+Select the appropriate drive. Double 
+click the MENU icon on the screen 
+
+
+Hold START & OPTION when turning 
+on. Start the tape and press RETURN 
+
+Insert disk. Hold down OPTION 
+while turning the machine on 
+
+
+In 128 mode, type GO 64 and then 
+load as Commodore 64 
+
+In 128 mode, type GO 64 and then 
+load as Commodore 64 
+
+Commodore 64 
+
+Press SHIFT and RUN/STOP 
+together, and start the tape 
+
+LOAD"MENU”,8,l 
+
+IBM PC 
+
+
+Load MS DOS, Insert disk in drive A 
+and type MENU 
+
+MSX 64k 
+
+RUN "CAS:" 
+
+
+Sinclair QL 
+
+Insert 1st microdrive and type LRUN MDV MENU 
+
+Spectrum 48k 
+
+Type LOAD "" and start the tape 
+
+- 
+
+Spectrum 128k 
+
+Switch on. select Tape Loader with the 
+SPACE BAR and press ENTER 
+
+- 
+
+
+* 8-bit Atari users should turn off the machine and remove all cartridges before 
+loading. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading Advice 
+
+If you re having any problems loading Silicon Dreams into your computer, then try 
+the following... 
+
+Cassette 
+
+1 . Try the other side of the cassette. 
+
+2. Load another game from cassette that you know works correctly, to check that 
+everything is connected correctly. 
+
+3. Vary the volume and tone settings on the recorder if you are able to. 
+
+4. Clean and demagnetise the recorder (following the maker's instructions). 
+
+5. Try another cassette recorder if possible. 
+
+Diskette/Microdrive 
+
+
+1 . Try again from the very beginning. Remove all disks/microdrives and turn the 
+computer off completely and back on again. 
+
+2. Is the disk the right way up ? (This applies especially to Amstrads). 
+
+3. Load another game from disk/microdrive to check that everything is connected 
+correctly. 
+
+4. Have you added any non-standard or peculiar hardware to the computer? 
+
+5. Clean the drive (following the manufacturer's instructions). 
+
+Guarantee (What to do if the program doesn't work!) 
+
+If you have no success in getting the program to run correctly, return it to Rainbird 
+without our packaging, and we’ll replace it (if you’re returning a floppy disk, then 
+make sure it's safely packed!). Please include a short letter telling us exactly what 
+the problem is, and what your computer system comprises of. Postage will be 
+compensated. 
+
+Software Returns Department 
+
+Rainbird Software 
+
+Wellington House 
+
+Upper St Martin's Lane 
+
+LONDON 
+
+WC2H9DL 
+
+
+
+Kim Kimberley 
+
+
+Kim is 1 .7 metres tall, weighs 55 kilos, is fairly intelligent, athletic, and has brown eyes and fair hair. Now aged 22, or 25, or 131 years... depending on how you calculate these things. 
+
+Bom on September 29th, 2172 AD, Kim was raised by the Hampstead Creche. This was a peculiar place, set amongst decaying buildings, and heavily reliant on a mix of relationship-engineering, behaviour conditioning and Hell-Fire religion. It was finally closed in 2185 for breaches of the Android Protection Acts. It seems to have done Kim little harm however, though possibly contributing to a tendency towards introversion. 
+
+Then to Milton Keynes School of Life: a fine, residential establishment situated (despite its name) in Malta. The staff were, in effect, Kim's family. (This type of situation, by the way, was far from unusual in the late 22nd century. Advances in entertainment and travel, plus the sexual revolution resulting from A.I. partho and cloning techniques, made a family up-bringing the exception.) 
+
+Kim returned to England for National Service before progressing to Oxford. Kim proved a good student, and established many close relationships, though nothing permanent. It was during National Service that the event central to the Snowball mission took place, though it went unremarked at the time. Kim was approached, discreetly, to do security work. Initially, this simply involved training and occasional surveillance of possible subversives, but it soon developed into counter-espionage. 
+
+Then, when the Snowball project got under way, Kim was approached to volunteer for the stars. The Snowball craft were as near automatic as possible, and carried a trained crew in case anything went wrong. But suppose something happened to the crew? What was needed were one-or-two trained people, carried without the crew's knowledge who could emerge and take over if something went really wrong. 
+
+
+
+Terran Expansionary Phase, 2120-2210 
+
+The late 21st Century saw a great increase in space travel within the solar system. 
+
+Fusion power was not yet feasible, conventional fuel sources were close to running out and the energy needs of the industrial nations were ever-increasing. The solution lay in space. Solar reflectors, if made large enough, could easily concentrate any amount of energy and beaming it back to Earth is simplicity itself. 
+
+What was not simple was to transport enough material for thousand-mile reflectors into space. Indeed, it was much more efficient to use what was already there ... and thus the first accelerator chains were set up to boost asteroid material from beyond Mars into Earth's orbit. 
+
+By 2120, thirty percent of Earth's energy came from the space reflectors and the proportion was steadily rising. To supply the colossal requirements of the orbital industries, the whole Solar System was linked by accelerators. 
+
+Then workable fusion power was perfected, and it was very cheap. 
+
+The whole space sector of the economy was redundant. A lot of politicians risked looking very silly indeed. 
+
+Thus a use for the accelerators, space reflectors and orbiting factories had to be found, and Stellar Colonisation was it. A lot of voters/party members read SF, after all, and colonies are always popular (at first, anyway). 
+
+So the accelerators were linked up and fired out of tens of thousands of small exploration probes in all directions. These robots would coast through space with only one mission — as each flashed past a star it would report back the existence of Earth-sized planets. Unmanned, they could continue for centuries. 
+
+Ten years behind came larger survey craft, each clutching a great ball of ammonia ice to power its fusion motor. If one was lucky enough to be following a successful exploration probe, it had just enough time to decelerate (from its coasting speed of 0.3 C) before reaching the star. Once there it would scout the system and if there really were habitable planets (or even ones requiring controlled climate domes as long as the ground was solid) it would radio the information back to Earth. 
+
+Then, while waiting for the first colonists to join it, decades later, the survey craft would proceed to prepare a world for them to live in. 
+
+First came a long, slow, painstaking period of asteroid mining — assembling the necessary materials to build its first robot-production line. The first robot would take ten or twenty years, the next ten or twenty days and the thousandth would take minutes. 
+
+
+
+By a process of careful boot-strapping, highly-intelligent space factories were built, as well as colossal dish receivers to collect the constant stream of technological data from Earth. 
+
+Next came the landings on the target planet, city building and making ready for the colonists. And, at the same time, preparations for launching more probes and survey craft. 
+
+The Terran Expansionary phase was scaled down as time passed, and eventually stopped — as far as Earth was concerned. Domestic political pressures changed, and politicians became more concerned with the quality of life for the so-called Free Nations than with space exploration. But the starships were in flight, and the foundation of the Human Empire was assured. 
+
+
+
+Game Scenarios 
+
+
+SNOWBALL 
+
+You play Kim Kimberley, secret agent extraordinaire. 
+
+Your mission: to safeguard the interstar transport, Snowball 9, as a last resort following catastrophic accident or sabotage. 
+
+Thus when your modified freezer-coffin wakes you with the Snowball still in transit, you know that something must be very wrong. You're weakened and disorientated from lengthy hibernation, but the fate of two million passengers is in your hands! 
+
+Snowball 9 started its journey to the stars from the EEC's Ceres base, one of fifty colony starships launched in the 2190s. It carried the first colonists for Eridani E. 
+
+First to be despatched were the ten giant passenger disks, rotating ponderously to provide internal gravity. Each was towed gently by a cluster of small tugs and floated into the void with 200,000 sleeping colonists on board. 
+
+Then the Snowball's engine unit followed, accelerated rapidly by the spectacular flares from its four great fusion motors. Like previous launches, and the link-up with the disks some weeks later, this was holo'd worldwide (though few people bothered to watch). 
+
+Looking like a necklace of sparkling beads, Snowball 9 headed out into deepest space, and into a century of obscurity. 
+
+But the major part of the launch was yet to come — and it happened quietly, out of the glare of publicity. The chains of accelerators, beyond Pluto, burst erratically into life throughout the following three years: firing ten-tonne blocks of ammonia-ice at precise speeds after the receding craft. Once reeled in by Snowball’s skyhooks, the ice was built into a huge hollow shell around the linked passenger disks. When complete, this shielded the disks during the voyage; until the ice was finally needed as fuel for the ravening fusion drives. 
+
+The ice-shell — which gave the Snowball series its name — formed most of the mass of the completed craft. Without the accelerator/skyhook system of "in flight refuelling", realistic-time interstellar voyages would not have been feasible. 
+
+As with life, the first thirty years of Snowball 9's journey were the most interesting. The computers and crew had to catch as much ice as possible before it flew past. But even then, there were never more than eight active crew at a time. 
+
+Then the starship was left to coast until its destination was near, the crew hibernating with the passengers. A brief flurry of activity to start deceleration, and back to autopilot. Even allowing for the great resilience, and hence low sophistication of the Snowball's machine intelligences, they are quite capable of running everything unaided. No further crew members were woken until a year from journey's end. 
+
+The plan from here on was to continue deceleration, shed the remains of the ice-shield (by now eaten away to insubstantiality by the need for fuel), and dock with the target planet, Eden, in geostationary orbit. Finally, the passengers would land by glider-shuttle... a process taking many years to get everybody down, and necessitating the retrieval of grounded gliders by sky-hook: the same gliders being used many times. This was the plan, anyway... 
+
+Meanwhile, in the Eridani star system, the robot descendants of the original survey craft that scouted Eden have been hard at work. The original crude waldroids, directly controlled form the survey craft's computers, were good for little other than manual routine work. But they have long been superseded by a host of specialised robots: highly intelligent and suitable for any task. 
+
+Indeed, in the outer reaches of the planetary system the first accelerator chains are already being built. It will not be long before colonists can leave Eden for remoter stars. 
+
+The colonists have taken over a hundred years to reach Eden, but the robots can obtain information and programming at light speed. They are immeasurably ahead of their future 'masters’ in knowledge and technology. Even if Snowball 9 arrives safely, it is by no means certain that the passengers will be able to cope with the sudden outdating of all their experience. 
+
+The physical well-being of the colonists is, however, assured by the robot's diligent work. Condo's, paveways, PVT's, holo nets, pre-ordained work . . . everything necessary for civilised life will be provided. After all, why risk further disruption of the social fabric resulting from a manifestation of the so-called "pioneer spirit" ? 
+
+All you, as Kim Kimberley have to do, is to rescue the Snowball 9. 
+
+WORM IN PARADISE 
+
+The Worm in Paradise takes place on the planet Eden, 100 years after the time of 
+Snowball and Return to Eden . You are a citizen of the Enoch megapolis of Eden. 
+
+Human colonists arrived a hundred years ago and Eden now supports half a billion people. Most of them natives and some of them men. The population is distributed between a handful of domed cities, of which Enoch is the first and smallest. 
+
+There is no contact between humans and the native fauna, so rumours of aliens are rife. It is said that flying saucers are regularly seen and that intelligent moles live in deep tunnels. But no proof has ever been produced. 
+
+This game takes place during the reign of the third Kim, when Eden is run as a benevolent bureaucracy. It is truly a paradise for the silent majority, with peace, no crime, full employment (with a fifteen-hour week), good housing, more entertainment than anyone could watch etc. etc. 
+
+Of course, there's no way that anyone can challenge the system. But then, what right-thinking person would want to?
+
+Politics 
+
+Governments can theoretically run at a profit, extorting no taxes from their citizens but getting income from such sources as fines for criminal offences and printing money (arguably a positive benefit in an expanding economy). This also involves tight controls on services and routine supervision of the citizens to catch trouble-makers. The Government of Enoch is run without taxes, and is underpinned by millions of robot servants who not only work hard, but are immune from corruption. 
+
+    • * Pepe
+    • *
+    • * D
+    •
+
+Enoch Health Service 
+
+
+Enoch hospitals make a profit, partly from the resale of body parts to ageing recipients and partly by charging for in-patient care. They also cut costs by: 
+
+* Medicating the drinking water. 
+
+* Making medical advice freely available via computer 
+
+* Minimising the time patients spend in hospital. 
+
+* Rewards for being vaccinated and for reporting infectious people as a threat to public health. Disease spreaders would be fined. 
+
+* Restricting mentally abnormal people while enabling them to do useful work if possible (they are the groups who do worst in Eden, as in many societies). 
+
+The result is the greatest good for the greatest number at the lowest price, but tough luck for the minority with expensive illnesses. 
+
+Enoch Police 
+
+The Enoch Police Force also makes a profit. This entails: 
+
+* Fines rather than imprisonment 
+
+* Rewards to informants (How many expired tax disks would you see if the police paid a £10 reward for each one reported?) 
+
+* Prosecution of wealthy people for a change. They can afford fines 
+
+* Summary justice where possible to cut court costs. The accused is assumed guilty but can opt for trial at the risk of a greater penalty 
+
+* Extensive supervision, to detect crime efficiently 
+* Concealing crime, which increases police costs, is heavily penalised 
+* Replacement of remaining taxes by fines (In 20th Century Britain, alcohol is taxed while some narcotics attract a fine. Everything is fined on Eden) 
+
+People are potentially immortal on Eden, provided they can replace body organs as these fail. Penniless criminals can easily raise the money to pay fines by cashing in their other assets... 
+
+Work 
+
+Robots run the Eridani E system, doing all the important work and most of the menial jobs. Whether humans are leisured aristocrats, or pets of the robots is difficult to tell. Humans are obliged by law to do some work and this involves: 
+
+* extensive "training" schemes 
+* many pen-pushing jobs 
+* fraternities control access to the few good jobs 
+* status is the main concern, not money 
+
+
+Game Instructions - Commands 
+
+
+Silicon Dreams uses an advanced command language interpreter (called a 'parser') that understands both simple one or two word commands and complex multiple command sentences. This chapter is split into sections describing ways in which to communicate with the program. 
+
+
+i. Movement 
+
+
+To move around, use the following commands: 
+
+
+Word 
+
+Abbrv. 
+
+Word 
+
+Abbrv. 
+
+NORTH 
+
+N 
+
+NORTHEAST 
+
+NE 
+
+EAST 
+
+E 
+
+SOUTHEAST 
+
+SE 
+
+SOUTH 
+
+S 
+
+SOUTHWEST 
+
+SW 
+
+WEST 
+
+W 
+
+NORTHWEST 
+
+NW 
+
+UP 
+
+u 
+
+DOWN 
+
+D 
+
+INSIDE 
+
+IN 
+
+OUTSIDE 
+
+OUT 
+
+CLIMB 
+
+- 
+
+JUMP 
+
+_ 
+
+CROSS 
+
+- 
+
+
+
+
+The EXITS command will list any likely exits. 
+
+
+ii. Actions 
+
+
+The majority of commands that you will use are actions, such as picking up objects, opening doors, lighting lamps, etc. Here are some examples of the most common action commands. 
+
+
+Command 
+
+GET THE SPANNER 
+DROP THE BLACK PISTOL 
+GIVE THE DRINK TO THE ROBOT 
+PUSH THE RED BUTTON 
+WEAR HELMET 
+OPEN THE DOOR 
+
+CUT THE TUBE WITH THE SCALPEL 
+EXAMINE THE COFFIN 
+INVENTORY (INV) 
+
+SCORE 
+
+QUIT 
+
+AGAIN (A) 
+
+
+Meaning 
+
+Pick up the spanner from here. 
+Leave the black pistol in this room. 
+Refresh the robot with my drink. 
+Press only the button that is red. 
+
+Put on the helmet that I'm carrying. 
+Open the door (!) 
+
+Sever the tube using my scalpel. 
+Take a good look at the coffin. 
+What am I carrying? 
+
+How well am I doing? 
+
+Abandon your quest. 
+
+Repeat the last command entered. 
+
+
+
+You can use punctuation, or the word AND to string together multiple commands, for example... 
+
+
+OPEN THE DOOR. GO SOUTH AND CLOSE THE DOOR.GO EAST AND PULL THE GREEN LEVER. 
+
+
+The parser also understands the words ALL and EVERYTHING to mean everything moveable that it can see. This is an extremely useful time-saving feature. In most other adventures, to pick up a number of objects, you would have to do the following... 
+
+GET RATCHET 
+GET BOLT 
+GET CLOTH 
+
+Without using the ALL command, Silicon Dreams would allow you to use... 
+
+GET RATCHET, BOLT AND CLOTH 
+
+But this can be abbreviated even more simply to... 
+
+GET ALL 
+
+Another useful feature is the ability to refer to the last used item/object as IT, for example... 
+
+EXAMINE THE BLUE SWITCH AND PRESS IT 
+or... 
+
+GET THE GREEN FLASK AND FILL IT WITH WATER. 
+
+Exceptions are also understood by the parser, such as... 
+
+TAKE EVERYTHING BUT THE COMPASS 
+or... 
+
+EXAMINE ALL EXCEPT THE WATCH 
+
+Using all of these command structures allows you to type in near-English sentences of great complexity, such as... 
+
+EXAMINE ALL BUT THE WATCH, SPANNER AND TORCH AND GO EAST. 
+DROP EVERYTHING BUT THE FLASK. OPEN IT AND GIVE IT TO THE ROBOT.
+GET THE KEYS. OPEN THE SLIDING DOOR AND RUN NORTHWEST THEN INVENTORY. WHAT IS MY SCORE? 
+
+
+
+iii. Special commands 
+
+
+There are a few commands that are neither movement or actions. Two of these affect the way the adventure is presented to you; they are... 
+
+WORDS Turn off the pictures. 
+
+PICTURES Turn them back on again. 
+
+A HELP feature has been included, to give you a clue at certain points within the three games. The HELP command is generally useful in the locations around the start of each adventure to get you on your way. 
+
+The other commands are concerned with saving and restoring your game position. Full instructions will be displayed on the screen where necessary. Those marked with an asterisk may not be available on all versions. 
+
+
+SAVE 
+
+
+RESTORE 
+
+
+RAM SAVE* 
+
+
+Stores game position to your filing system.- Be sure to have a blank tape or formatted disk ready. If you are using cassette, press PLAY and RECORD before issuing the command. § 
+
+Loads a saved game position. Lenslok will be needed. Please refer to the Lenslok instructions at this time. If you are using cassette, start the tape after the Lenslok procedure^ 
+
+Stores game position in the computer’s memory. 
+
+
+RAM RESTORE* Loads a RAM SAVEd position from the computer's memory. 
+
+OOPS* Restore position as it was before you last moved. OOPS is a very useful command, and versions on larger machines let you use it several times in succession to go back a long way in time. 
+
+
+Naturally, you can use OOPS, RESTORE or RAM RESTORE, even when you have just been killed, so that you can return to your position before your fatal accident! 
+
+
+§ Commodore 64/128 users should add ,8 after the save/restore filename to save the 
+file to disk. 
+
+
+
+Scoring and Hints 
+
+
+Silicon Dreams can be played as three entirely separate games, if you wish. However, the only way to obtain a maximum score and the title of 'Supreme Adventurer’ is to complete them in the order Snowball, Return to Eden, Worm in Paradise, carrying your score from one adventure to the next (when you finish Snowball with a maximum score, you will be told how to carry your score across).
+
+Unlike many adventures, you don't score points for collecting 'treasures' and storing them in a certain location in the game. Instead, you score for doing certain things that help you on your way to solving each of the adventures. 
+
+Snowball 
+
+Your aim is to get to the main control room in the engine unit, and rescue the 
+starship from crashing into the planet Eden. 
+
+You will lose points for being caught by the Nightingales. 
+
+North, south, east, west, etc. are understood in the usual way, however, UP and DOWN are relative to local gravity. At the start of the game, you are in the lowest level of a passenger disk. You will need to go 'up'. 
+
+Return to Eden 
+
+The initial object of Return to Eden is to get into the new city of Enoch. Once you 
+have achieved this, you must stop the Eden robots from destroying the 'alien' 
+Snowball 9 craft. 
+
+Worm in Paradise 
+
+You will score points for finding out about the city of Enoch, and for progress within it. Your prime objective is to obtain money, and then to become a member of the governing party. Should you get the chance to save the world, it is suggested that you make an attempt. 
+
+You will lose points for such things as being recycled (better known as dying!). 
+
+Use SAVE and RESTORE regularly throughout the game, as well as RAM SAVE/RAM RESTORE and OOPS if they are available on your version of the trilogy.
+
+EXAMining objects will provide helpful clues to solving many of the puzzles you will encounter. 
+
+
+
+Are you really stuck? Take a hint from us.. 
+
+
+Trying to move an immovable object, which simply MUST conceal a vital object? 
+Don't know how to get out of a maze? Can't work out the password? Don't despair 
+Although Rainbird brings you the most fiendishly devised adventures, we've got a 
+heart, so if you really are stuck trying to solve a seemingly unsolvable problem, 
+then fill in the Hint Request Form provided with this package. 
+
+
+Credits 
+
+Silicon Dreams was brought to you by the following people:- 
+
+Game design and text: Pete Austin 
+Programming: Mike, Nick and Pete Austin. 
+
+Pictures: Tim Noyce and James Horsier. 
+
+Miss Kimberley's costume: Spider and Jeannie Robinson (Stardance). 
+
+
+
+Eden Song 
+
+
+A novella by Peter McBride 
+
+
+
+
+EDEN SONG 
+
+
+1 
+
+
+There's a lot to be said for being small. Of course, there's also a lot to be said 
+against it — like the way people look at you and say "Cor, 'e's small, inn't 'e." when 
+you come into a room. But if you're as handy with a flick-laser as Shorty 
+Witherspoon, no-one ever says it twice — at least, not loud enough for you to hear. 
+
+The thing about being small is, if you sit in a comer and sup your ParaVin quietly, 
+after a while, everyone ignores you and you can hear things. So Shorty sat quietly 
+in a corner of the Snake in the Grass and tuned into different conversations, 
+listening for anything promising. And the Snake in the Grass was a very good place 
+for picking up interesting conversations. It was a dingy drinking den, tucked into a 
+low-ceilinged room in the UnderCity; frequented by arsonists, blackguards, 
+conmen, drunks, ecologists, finks, hoods, politicians, liberals, murderers, optimists, 
+programmers, quiz-show comperes, robocides, socialists, thieves, undesirables, 
+vagabonds, wets, xero salesmen, yobs and zombies. This A to Z of the low-life is 
+completed by the grasses, informers, narks and squealers, of which Shorty was a 
+prime example. 
+
+".... But your honour, I says, I haven't got 25 credits. You should have thought of 
+that before you walked on the grass, says he. Get yourself a job or get down to the 
+body bank. Driftin' snowballs, what a choice!" 
+
+"Well, I reckon that new eye-patch suits you a treat, Jake. Makes you look sort of 
+piratical...." 
+
+Shorty lost interest. There was nothing to be gained there. He tuned in to the group 
+behind him. 
+
+"....Right, so you all know what you've got to do? Big Henry?" 
+
+"Gottit, Brain. Any fuzbots come snoopin' round, I do ’em wiv me 'ammer." 
+
+"And I keep the barman busy while Nick nicks the nick-nacks.." 
+
+"No! Nick nicks the nitenaps! Numbskull." 
+
+
+1 
+
+
+"Sorry, Brain. I’ll keep 'im busy anyway...." 
+
+Shorty pricked up his ears and listened to the rest of the plan. He smiled a not very 
+nice smile. The Enoch police would pay handsomely for this bit of information, and 
+Shorty liked to have a bit of money in the bank, just in case. The only time he’d ever 
+had to put a bit of himself in the body bank to pay a fine, they'd hardly given him 
+anything. Not much call for small giblets, the doc had said. Yet when he’d raised 
+the cash to buy a replacement set, he’d been charged a fortune. Rarity value, 
+according to the doc. Very hard to get them in his size. 
+
+But what was really galling — once the gall bladder was back, that is — was the feeling 
+that he’d bought his own giblets at five times the selling price. 
+
+He went back to work, occasionally moving to a new table to eavesdrop different 
+conversations. He picked up Sparkles Smith's plan to open a jewellers — with a 
+crowbar — and a few other little tippets that might be worth the odd credit or two. 
+Then a new group came in and settled down near him. 
+
+"....Shame about Lefty. Did you hear?" 
+
+"No, what happened?" 
+
+"Got done for theft. 200 credits fine!" 
+
+"That's a bit steep. What had he had?" 
+
+"He was trying to walk out of the Museum with the inflatable Kim. Don't ask me 
+why! Personally, I think the fuzbots had it blown up out of all proportion. Still, 
+200 credits.." 
+
+"Must have cost him an arm and a leg!" 
+
+"Too right. He could hardly spare them either. I mean, they didn't call him Lefty 
+for nothing." 
+
+"He wouldn't be too pleased about that. Got a nasty vicious temper too has old 
+Lefty.” 
+
+"Oh, well, he's 'armless for the time being. Hah, hah!" 
+
+"So what's he doing with himself now?" 
+
+"Just bummin' around — shh! Here he comes..." 
+
+Lefty shuffled across the room to the Cut-Down counter and glared balefully at the 
+
+
+2 
+
+
+
+barman with his remaining eye. "Jug of ParaVin and a straw." He challenged the 
+barman to make any comment. 
+
+Shorty waited until he could hear the straw sucking round the bottom of the jug, 
+then strolled over to the Cut-Down counter. 
+
+"Another jug, Lefty?" he offered. He wanted to know why the luckless thief had 
+been after the inflatable Kim. 
+
+Yeh. An' it ain't Lefty no more. Call me .." he paused for thought, not having 
+decided on his new name yet. He eyed Shorty, realised they were now both the same 
+size, and finished with an evil grin, "..call me Shorty." 
+
+Shorty took that as the insult that it was and reached instinctively for his flick-laser, 
+then stopped. The new Shorty didn’t have anything to chop off — leastwise, not that 
+he could see. Anyway, he wanted information. 
+
+O.K. the two Shorties." He forced a laugh. "Sorry to see you in reduced 
+circumstances, as it were. What happened." 
+
+Shorty (Mark 2) wasn't giving much away, but over seven or eight jugs of ParaVin 
+the story gradually came out. It was a story of intrigue and cunning, of secret maps 
+and hidden places, and of wealth — fabulous quantities of wealth. It was a story to 
+quicken the pulse of any adventurer or any other kind of criminal. By the end of the 
+evening Shorty's (Mark 1) head was swimming with dreams of treasure — and with 
+eight jugs of ParaVin. 
+
+
+3 
+
+
+
+2 
+
+
+It was a shame that when he woke up the next day he couldn't remember anything 
+much after the fourth jug. He had a vague memory of being helped to escape from a 
+fuzbot raid on the drinking den, and was fairly sure that Shorty (Mark 2) had been 
+left behind. If the fuzbots did him for boozing, then Shorty (Mark 1) probably 
+wouldn't see him again. There comes a time in Enoch, when you have sold all your 
+disposable assets, that you have to go into voluntary liquidation. 
+
+He groaned and opened one bleary eye to see where he was. There was something 
+beside his bed. If only the room would keep still he might be able to make out what 
+it was. A droid, about one and a half metres high, but not a typical streamlined 
+silver job. The feet came into focus first. They were nearly half a metre long, 
+curled up at the end and painted shocking pink. The legs were on the short side, and 
+bowed outwards. They, and the body and arms, were painted bright white with big 
+purple polka dots. In Shorty's condition, this was all rather hard to take, but the 
+head was worse. The speech outlet had a hinged dust cover, with the opening 
+outlined by thick red lines, curving upwards in a hideous grin. The normally 
+discrete scent-sampler had been housed in a shining red ball, and the twin vid-cams 
+were set in broad splashes of white. The droid's top aerial had been housed in a 
+conical surround — also in white with purple dots — topped with a loose Find-Me bell. 
+
+It was supposed to look like a jolly clown. Shorty recoiled at the sight and hid his 
+head under the pillow. 
+
+"I'll never drink ParaVin again!" he muttered. 
+
+A noise like a blunt saw cutting through old plastic grated through the bedding. 
+"Arf, arf, arf! Did you hear the one about the man who dreamed he ate an 
+Andromedan Mush Mallow? And when he woke up he couldn't find his pillow! 
+Arf, arf, arf!" 
+
+Shorty reached for the poster to turn it off. He couldn't stand early morning giggle 
+shows. But the poster wasn't on, and the noises continued. 
+
+"Arf, arf, arf! And then there was the man who went to see the medibot because he 
+couldn't get to sleep at nights. 'Don't worry,’ says the medibot. ’Just lie on the edge 
+of the bed. You'll soon drop off.’ Arf, arf, arf!" 
+
+Shorty lifted up the comer of the pillow and looked out. The droid was still there, 
+an eye-straining combination of lurid colours. 
+
+"Are you real?" Shorty asked hoarsely. 
+
+
+4 
+
+
+
+"Every centimetre of me, as the bishop said to the actress. Arf, arf, arf!" The droid 
+bent stiffly towards Shorty. "You do not laugh or smile. Do I not make you happy, 
+Mr Witherspoon?" 
+
+"Happy!" groaned Shorty. "My head feels like there’s a herd of gigaphants 
+rampaging around in it, and my mouth tastes as if they've been there already. How 
+can I be happy?" He lowered the pillow to shut out the sight of the grimmacing 
+droid. 
+
+"Oh, a touch of the old post-ParaVin pains! Arf, arf, arf! Trust your old happibot 
+to fix that. Do you mind if I use your kitchen, sir?" 
+
+Shorty didn't mind anything as long as it was quiet. He flapped a hand weakly at the 
+droid. 
+
+It wasn't quiet. It whistled loudly and out of tune all the time that it banged around 
+the kitchen. Beneath his pillow, Shorty tried to work out what it was all about. 
+Even the vivid image of the spotty droid was obscured by the rampaging gigaphants. 
+The kitchen clamour ceased at last and was replaced by the flapping of large feet. 
+
+"Arf, arf, arf! Here we are, Mr. Witherspoon. OZlO's instant happiness." It was 
+holding out a long tube of cloudy green fluid. "Drink it up! Drink it up! You'll be 
+amazed what it will do." 
+
+Shorty peered out at the droid and its instant solution. He didn’t think he would be 
+amazed. In fact, he was quite sure it would make him violently ill. No way was he 
+going to drink it. 
+
+The droid was silent for perhaps ten seconds, then it started up again. "Arf, arf, arf! 
+Did you hear the one about the man who went to the medibot, and said he was ill 
+because he'd eaten seven red, three blue, two pink and four black hyper-snooker 
+cubes? Arf,..." 
+
+"If I drink that, will you be quiet for a few minutes?" Shorty could stand it no 
+longer. 
+
+The droid was taken aback. "Yes, if you insist," it replied after a moment's pause. 
+
+Shorty reached for the tube, closed his eyes and drank. The taste was indescribable, 
+but it cleared all traces of the gigaphants instantly. He opened his eyes. The room 
+was perfectly still and completely in focus. A gaily painted droid with a jolly face 
+beamed down at him. Shorty was amazed. An instant cure for post-ParaVin pain — 
+though it hadn't cured the loss of memory. 
+
+
+5 
+
+
+
+"Who did you say you were?" 
+
+"I am your happibot, Mr. Witherspoon. You hired me last night." 
+
+"I did? What's a happibot? Why do I want a happibot? What happened last night? 
+Do you remember?" 
+
+"You did. Iam. You did not tell me. A lot of things. Ido." 
+
+Shorty looked pained. He had forgotten Lesson One of Talking to a Droid. "Let's 
+start again. Can you tell me what happened to me last night?" 
+
+"Of course, Mr. Witherspoon. I have total recall." 
+
+"Good, then you can tell me about it while I have breakfast." 
+
+It was just as well that Shorty liked to take a long time over breakfast, for the droid 
+did indeed have total recall — and no editing facilities. Shorty was treated to the 
+whole works — every word, deed and (worst of all) every joke. 
+
+Fortunately, dear reader, we do have editing facilities. Here's the gist of it: 
+
+OZIO was designed as a public relations exercise some years before, when it was 
+felt that robothood’s image needed a little brightening. Two months later, the 
+long-suffering populace, unable to walk down the street for fear of being accosted 
+and told a joke, mobbed the Council Rooms and had it withdrawn from service. 
+OZIO had been earning his lubricants as a dishwasher and mopper-up ever since. 
+He had recently moved to the Snake in the Grass, where he had discovered that 
+late-night revellers — such as the two Shorties — would let him join their party and 
+even laugh at his jokes. Shorty (Mark 1) had found him so funny (according to 
+OZIO) that he had hired him. Shorty (Mark 1) found that rather hard to believe. 
+
+Shorty (Mark 2) had found out — he wouldn’t say how — that the aliens lived in 
+tunnels under the ground and that these tunnels were lined with glittering gems and 
+gold. He believed that the original Kim Kimberley had been on good terms with the 
+aliens, and, of course, the robots would only take orders from a Kim of some sort, 
+so he reckoned that if he took the inflatable Kim underground with him, it would 
+help — he wouldn't say how. If Shorty (Mark 1) wanted to cut himself in on the deal, 
+then he'd have to find a complete refit for Shorty (Mark 2). A return to Lefty status 
+would not be enough. 
+
+While they were working out how to raise 800 credits, there was a fuzbot raid on 
+the Snake in the Grass. OZIO had tucked Shorty (Mark 1) under his pinny and 
+walked out with him via the back store, while Shorty (Mark 2) had hidden under the 
+table. He would probably not have been discovered if he hadn't suddenly 
+
+
+6 
+
+
+
+remembered one of OZlO's jokes and burst out laughing. 
+
+The joke was » CENSORED « 
+
+The other jokes have been edited out, and you should be glad of it. 
+
+"Did I really laugh at those jokes?" Shorty asked when OZIO at last finished. 
+
+"Indeed yes, Mr. Witherspoon. It was "Arf, arf, bonk" all evening." 
+
+"Arf, arf, bonk???" 
+
+"You kept laughing your head off, sir! Arf, arf, arf!" 
+
+"Strong stuff that ParaVin Glittering gems and gold, you say." 
+
+"The foreshortened gentleman said so. You know, arf, arf, arf, he reminds me of 
+the meat shop assistant who sat too close to the beef roll slicer and got behind with 
+all his orders. Arf, arf, arf!" 
+
+"Can we cut down on those kind of jokes?" asked Shorty, who was trying to digest 
+his breakfast beef roll at the time. 
+
+"Cut down. Arf, arf, arf! Oh, very good, sir. Arf, arf, ..." OZIO caught the look 
+in his eye and stopped guffawing. ".. Erm....Yes, sir." 
+
+Shorty said nothing. He was thinking about gems and gold; the inflatable Kim; and 
+vids that he'd seen about expeditions and jungle explorations and trading with 
+natives on Ancient Earth. "Right," he began, after five minutes of his deepest 
+thought, 'We'll need a team of native porters, ten bales of white cotton, three boxes 
+of glass beads, two boxes of iron axe-heads, one crate of the finest Winchester 45's, 
+30 day's rations and a spare pair of tough-soled walking shoes. Oh, and a puncture 
+repair outfit and a bicycle pump. Got all that?" 
+
+OZIO, who hadn't seen the same vids, looked as blank as only a droid can. "What 
+are porters, axe-heads, winchesters and a bicycle?" 
+
+"All right then, big nose. Have you got any better ideas as to how we get those 
+gems?" 
+
+"Are you talking to me, Sir?" OZIO asked innocently. 
+
+"Of course I am, you red-nosed clown! Would I be talking to the cooker?" 
+
+"I understand, Mr. Witherspoon. What you have just called me, reminds me of the 
+
+
+7 
+
+
+
+story of the master of wit and repartee. Do you know that one? It goes like this..." 
+
+"The gems! How do we get the gems? Oh, why do I ask you? I can see I'll have to 
+do all the thinking around here." Shorty sank deep into his chair, his brow 
+furrowed in unaccustomed exercise. After a while, OZIO cleared his speech box 
+tentatively. 
+
+"Er-hum. If I might suggest, sir..’ Shorty didn't stop him, so he carried on. "I 
+could make a model of the inflatable Kim, as that seems to be important, and I 
+believe it may ease our way with both the fuzbots and the aliens. We would then 
+need to recruit a small team of specialists to help with the expedition. I would 
+suggest that we would need an expert on the native flora and fauna and someone 
+with experience of hazardous exploration. For preference, at least one of them 
+should be tall and strong, as there will be much to carry, and neither you nor I, Mr. 
+Witherspoon, are built for that kind of work. We could use the Kim to help us get 
+the equipment that we would need for an external journey, then leave via the 
+UnderCity route. Once into the jungle we should look for a ventilation shaft from 
+the tunnels and " 
+
+"Oh, shut up, smartyparts! How can I think with you rabbitting on? Make a model 
+Kim! Ha! You couldn't even make lunch." 
+
+"I do not like to contradict you, Mr. Witherspoon, for I know it makes you 
+unhappy, but I could make lunch." 
+
+"All right, then, do it. And I'll work out the rest of my plans." Shorty went through 
+to the furthest room of his habihome. He'd heard OZIO in the kitchen once before. 
+
+Lunch was very good. OZIO was turning out to have some very useful talents. As it 
+explained, it was designed to make people happy. However, Shorty was still 
+convinced that they would have to steal the inflatable Kim, and he overrode OZlO's 
+protests. "I have a foolproof plan. Follow me, and try to look inconspicuous. I shall 
+wear shades, a false beard and my big green cloak so no one will recognise me." 
+
+And so, the smallest man in Enoch and the only purple-spotted droid mingled as 
+unobtrusively as possible with the crowds of tourists at the City Museum. Shorty's 
+plan was to get close to the Kim, and when no-one was looking, he would stick a pin 
+in it to deflate it and stuff it under his cloak, then walk out with the rest of the 
+tourists. He didn't tell OZIO the details, because he was sure that the droid would try 
+to pick holes in it — the plan, that is, not the inflatable Kim. 
+
+When their bit of the queue had shuffled along next to the Kim, Shorty realised 
+there were two minor snags. One, everyone was looking at the exhibit; and Two, his 
+arm wasn't long enough to reach it. He tugged at OZIO so that he could whisper in 
+his audio-receptor. "Tell a joke to distract everyone." 
+
+
+8 
+
+
+
+OZIO recalled the last time it had tried to tell a joke in public. "I fear I cannot 
+remember any, Mr. Witherspoon." It whispered, shaking his head so that his 
+Find-Me bell rang. 
+
+"What!" shouted Shorty, then lowered his voice hurriedly. "You dingle-topped tin 
+twerp! And stop ringing that bell. What about all those you told me this morning?" 
+Shorty tried hard to remember one. "How about the man who had been eating 
+hyper-snooker cubes?" 
+
+OZIO tried to look thoughtful. "What was the punch-line to that? I have forgotten." 
+
+"I don’t know. You never told me." Shorty was getting desperate. The queue was 
+gradually pushing him past the inflatable Kim — and people were starting to look at 
+them. "Just start telling it anyway — never mind the punch-line." He doubted that 
+anyone would let the droid reach it anyway. 
+
+"Arf, arf, arf..” OZIO began, very quietly. Shorty kicked it, and it started again 
+louder. "Arf, arf, arf! Did you hear the one about..." 
+
+It didn't get any further. There was a piercing scream from further back in the 
+queue. "EEEEKKH! The happibot's escaped. Run for your lives." 
+
+When the stampede started, Shorty was half-way across the barrier and quite 
+off-balance. He went flying at the first shove and crashed against the Kim's pedestal, 
+his cloak settling around his head. He lay stunned and in darkness, awakened at last 
+by a fuzbot's voice. 
+
+"Now then, Shorty, don't you know it's against the law to bring dangerous droids 
+into public places. You can pay a 20 credit fine now, or take a chance with the 
+judge." 
+
+Shorty battled his way out of his cape and looked around. The room was empty 
+apart from himself, OZIO, the fuzbot and a scatter of lost shoes, hats and bags. (Oh, 
+and the exhibits. The panic had been so total that no-one had thought of swiping a 
+souvenir while they had the opportunity.) 
+
+He reached into his belt-bag for his credits card. The fuzbot took it and slotted it into 
+its deductor. The flicker-crystal display registered eight credits and seventeen cents. 
+"If you'll just accompany me down to the body bank, Shorty.." 
+
+Shorty was near to despair and looked imploringly at OZIO. "Use your brain," 
+whispered the droid. 
+
+"What will I think with if I sell that, you flat-footed fool?", he ranted as the fuzbot 
+
+
+9 
+
+
+
+led him away. 
+
+"No! Brain. Last night. Remember.." OZIO called after him. 
+
+Shorty strained to work out what the droid was trying to tell him, then suddenly it 
+clicked. "Wait!" he said to the fuzbot. "I'd like to sell some information." 
+
+Grassing on Brain's nitenap-nicking notions was worth ten credits. The planned 
+break-in at the jeweller's fetched five more. The fuzbot slotted Shorty's credits card 
+in its rewarder, then back into its deductor before returning it to its owner. 
+
+"Thank you for your co-operation, Mr. Witherspoon. A pleasure to do business 
+with you. Now, if you wouldn't mind removing your droid. Sir, perhaps the 
+Museum can get back to business." 
+
+
+Back at the habihome, OZIO cooked Shorty a slap-up supper to cheer him up, then, 
+while he slept soundly, it made an inflatable Kim. 
+
+When Shorty got up, he found OZIO in the kitchen surrounded by piles of canned 
+and boxed food, pans, crocks, assorted tools and other useful things. The Kim was 
+propped up in a comer. Shorty was staggered. 
+
+"What on Eden. ..Did you make that?" 
+
+"Yes. I always wanted to be a plastic surgeon, arf, arf, arf! I say, did you hear about 
+the plastic surgeon who stood too close to a radiator? Arf, arf. He melted! Arf, arf, 
+arf!" 
+
+But Shorty wasn’t listening. He was staring at the piles on the floor. "How do we 
+carry all this lot?.. Do we really need it all?" 
+
+"We will need some assistance. Yes. I say, arf, arf, arf! Did you hear about the 
+enthusiastic campers..? They were always intense. Arf, arf, arf!.. Intense — in 
+tents?..." 
+
+Shorty ignored the last bit. "We'll need a pack-horse for this lot! Or at least, a 
+pack-droid." 
+
+"I think it will have to be a 'pacman', Mr. Witherspoon, arf, arf! Really, you do 
+need other people, Sir, an experienced expeditioner and an expert on flora and 
+fauna, at the very least." 
+
+"So you keep saying!" Shorty didn't want to cut anybody else in on his deal, but he 
+was gradually realising that OZIO had a terrible tendency to be right. Perhaps if he 
+
+
+10 
+
+
+
+could find someone big and brawny, but not too bright.. 
+
+"Coo-ee". Someone at the door. "Coo-ee". With a heavy finger. "Coo-ee." Why 
+didn't they let go of the button. "Coo-ee." He was going to have to get that 
+door-caller changed. "Coo-ee." Reached it at last. 
+
+Shorty whipped the door open angrily. "Will you stop pressing that..." his voice 
+trailed off as he realised he was staring at a belt-buckle. He craned his neck further 
+and further back to see the face of the caller. It was beaming down at him with a 
+lop-sided grin. 
+
+"Duh, sorry to be a bovver, but I've just moved in next door. Could I borrow a bit 
+of sugar. I can't find nuffing in there." 
+
+
+Shorty beamed back. He was just the job. "Of course, come in, come in. OZIO, we 
+have a guest! Stop and have a drink. Tell us about yourself. I don't suppose that by 
+any chance you'd be free to do a little expeditioning in the next couple of weeks?" 
+
+"Duh, what?" 
+
+It turned out that Peregrine Muldoon — that was his name, but please call him 
+Muscles — had a fortnight's leave from his job as a bed-tester. What’s more, he had a 
+girlfriend who he claimed was an expert on flora and fauna (once Shorty had 
+explained what they were) and that they would both be delighted to go on an 
+expedition with him. OZIO was not convinced about the new recruit, and kept 
+whispering about 'intelligence', 'experience' and 'what if she is as bad as him' as if 
+they were things that mattered. What it did not seem to realize was that Muscles was 
+big enough to carry everything, and had never once asked 'what's it worth?' or 
+other such awkward questions. 
+
+Shorty send Muscles off to pack his smalls — or bigs in his case — and to collect his f & 
+f expert. They were to meet up at the Witherspoon habihome at sunset. Meanwhile, 
+he set off to do some shopping and some shopping. First he had to shop a few more 
+petty criminals to raise some credits; then he could head for the sporting goods shop 
+to buy new boots and a couple of tents. 
+
+Muscles found Cindy, his girlfriend, and told her about the trip. She was very 
+excited. "Ooh! Won't that be fun. But I haven't got a thing to wear!" 
+
+"Duh, that's all right. Huh, huh." Muscles grinned hugely. 
+
+"Oooh, you are awful! Look, I must serve these customers, but we close early today, 
+and I'm sure Mrs. Hibiscus won’t mind if I take a few days off." Cindy clicked 
+across the shop in her high heels, then called to him. "Peregrine, why did they want 
+
+
+11 
+
+
+
+me to come too?' 
+
+
+"Duh, you're the expert on floor., flor.. fur.. You know all about plants and 
+animals, don't you." 
+
+"Well, I suppose I do, don't I." Cindy went back to her customer. "Was it flowers 
+you was looking for, madame, or a pet? We've got some pretty little birds, and all 
+sorts of furry things.." 
+
+
+12 
+
+
+
+3 
+
+
+And so, in Enoch's dusky twilight, the intrepid adventurers set forth in search of 
+treasure, excitement and an appreciative audience. (OZIO never lost hope, though 
+he kept his silicon dreams to himself.) 
+
+Shorty had divided up the load between them. He carried the map he had drawn on a 
+scrap of paper, and OZIO had a deflated Kim in a bag on its back. Muscles carried 
+the food, tents, spare clothes and the rest of the camping and hiking equipment. 
+Cindy had promised to carry her own make-up case as soon as her nails had dried 
+properly. 
+
+Shorty led them along the sneaky back-routes he knew so well, down into the 
+UnderCity. There, they bypassed the Snake in the Grass, which was still under 
+fuzbot surveillance, and headed into the damper and smellier parts of the cavernous 
+complex. 
+
+"Pooh! Do we have to come this way?" Cindy held a frilly hankie to her nose. 
+
+"Arf, arf, arf. That reminds me. There are two men talking. The first man says 'My 
+droid has got no scent sampler.' The second one asks him 'How does he smell'. The 
+first one replies, 
+
+"..Awful." Shorty interrupted. He had heard the joke before. 
+
+"Actually, sir, it should be 'a bit oily'." OZIO corrected him. 
+
+"That's not as funny." Shorty decided after a moment's thought. 
+
+"I don't get it," said Muscles after an even longer pause. OZIO started to explain it to 
+him, but was interrupted by his master. "Never mind that. Which way do we go 
+now?" 
+
+"I thought you knew, Mr. Witherspoon." 
+
+"No. I’ve never been past here. I thought you knew." 
+
+"Oh, dear. I say, that reminds me, arf, arf, ar..." 
+
+"No! Not now, you chrome-covered comic! Find us a way out." 
+
+OZIO began to (politely) clarify Shorty's misconceptions as to the true functions 
+and abilities of a happibot, when Cindy suddenly pointed beyond them. "'Ere, 
+
+
+13 
+
+
+
+what’s that light over there?" 
+
+"It is a very large droid, and probably on guard duty, miss." replied OZIO, which 
+had very good long-range, night vision. "If I might suggest, Mr. Witherspoon, that 
+is probably the way we should go." 
+
+"Right. Operation blow-up!" said Shorty. 
+
+"Coo, are we going to blow up that robot?" asked Cindy. 
+
+"No, this." said Shorty, beckoning to OZIO. 
+
+"Not your nice friend!" Cindy was horrified at the idea. 
+
+"No, this." OZIO had unpacked the Kim and held it up. Cindy took one glance and 
+fainted. While Muscles looked after her, Shorty and OZIO argued about which of 
+them should blow up the Kim. Shorty was not impressed by OZlO's claim to have no 
+breath, and, in which case, why hadn't it thought to bring along a bicycle pump as he 
+had suggested. In the end, after Cindy had been helped back to her feet, Muscles 
+blew up the Kim. It took four and a half lungsfull. And then another one and a half, 
+because he didn't get the bung in quick enough the first time. 
+
+They walked across to the guard, with the inflated Kim held upright between Shorty 
+and Muscles. Muscles held its left arm, and Shorty had its right leg. Cindy followerd 
+close behind, practicing her lines. OZIO brought up the rear — at a discrete distance, 
+for it didn't have total confidence in Shorty’s plan. 
+
+"Halt! Who goes there?" 
+
+"Ooh, hello sweetie, don't you remember me, Cind..Kim? Do you mind if we go 
+past. We're off for a little walk, aren't we fellers?" 
+
+Shorty groaned inwardly. All she had to say was 'Let us past. I am Kim Kimberley.' 
+He glanced nervously up at the big robot, trying to read its expression, without 
+catching its vid-cam. He needn't have worried — at least, not at that point. 
+
+"Hello, again honey!" said the big robot warmly, remembering the last time it had 
+met the Kim. "Hey, who's that cute doll behind you?" 
+
+"Oooh! Does it mean me? Yoo-hoo!" Cindy stretched up and waved over the Kim's 
+shoulder at the guard. 
+
+It waved back stiffly. "Hi-ya, gorgeous." 
+
+Shorty fought down the mounting panic, and tugged at the Kim and Muscles. "Come 
+
+
+14 
+
+
+
+on," he hissed and led his party past. The guard robot moved slightly to the side, but 
+didn't take its vid-cams off Cindy. 
+
+"You ought to be ashamed of yourself!" OZIO told the robot as it flapped by. The 
+other just grunted deep from within its diodes. "What a little mover!" 
+
+It was a few minutes later when the guard replayed the meeting and realized it had 
+been tricked. "Come back here!" it bellowed after them, but they were well away. 
+
+They blundered into the external clothing and equipment stores quite by mistake, 
+though it proved to be a very useful move. The sign on the door appeared to say 
+'WAY OUT'. In fact, it said 'ABOVEWAY OUTFITS', but years of grime had 
+obscured most of the letters. 
+
+The sales-droid behind the counter looked up as they entered. It was one of those 
+highly efficient, super-charged varieties originally designed for selling second-hand 
+space-skimmers, and did an instant assessment of its customers before swinging 
+smoothly into its spiel. "Good evening, your Kimness, gentlemen, madame.. urn.. 
+Mr. Coco. Aah! A little expedition into the exterior, I perceive. And I think we need 
+just a teensy bit more equipment to be on the safe side, don't we. Radsuits, bubble 
+helmets, thermal underwear, nice 'n' dry walking socks, hand lasers, force field 
+generator, camping beds, insect nets, mini-cooker and ice-box, no-grow anti-plant 
+groundsheets, tents — now I can see you've got one or two just peeking out there, but 
+I bet they aren't self-erecting and guaranteed jungle-proof are they? so there you 
+are — tents, day-glow night-lights, portaloo..." 
+
+OZIO recovered from the onslaught first. It switched its speech synthesiser to treble 
+and to voice-project mode. "Thank you, young droid. Just get everything that we 
+need and charge it to my account. Hurry up now, we haven't got all day." 
+
+The robot instantly switched up a gear and spun round the stores, rapidly building a 
+mountainous pile of clothing and equipment on the counter. The humans watched in 
+stunned silence. The Kim, which had sprung a small leak, slowly hung its head as if 
+in shame at being involved in such shenanigans. Shorty discovered that by squeezing 
+its leg — or any other convenient part — he could force the air back up to the neck and 
+stiffen it. He practised squeezing, then letting go a bit until he could nod its head 
+quite realistically. 
+
+After 2 minutes and 14 seconds, the sales-droid returned to the counter with its last 
+load — 5 rucksacks. 27 seconds later, all of the gear had been packed neatly into 
+them. "There we are, your Kimness. Will there be anything else?" 
+
+Shorty nodded the head, as OZIO said 'NO' in its off-key treble. As the sales-droid 
+tried to sort out the conflicting signals, Shorty piped up. "Excuse me, your Kimness, 
+but I think we are still lacking a carbo-alumina combination toothbrush-holder and 
+
+
+15 
+
+
+
+tin opener. 
+
+
+"Oh, dear!" said the sales-droid. "I don't know if I've got one. Please wait for a few 
+moments." It disappeared into the depths of the stores. 
+
+"You chip-brained chump!" Shorty accused OZIO." You told it to put this lot on 
+account. That means that this thing.." he waved a floppy Kim arm, ".. is going to 
+have to sign for it. Quick, Muscles! Grab the bags and scarper!" Shorty snatched the 
+Kim from the giant's grasp and ran for the door dragging the flopping model 
+behind him. 
+
+"Duh, but aren't you going to wait for the carboluma toothbrush opener?" asked 
+Muscles. 
+
+"Come on, Muscles! Get him moving, Cindy!" Shorty implored. 
+
+It was just as well that the sales-droid was having to do a complete inventory search, 
+for Muscles was definitely a 0 to 60 in 3 days man. Getting through the door took a 
+while too, as the fourth and fifth rucksacks stuck out at the sides, and the second and 
+third stuck out front and back. When he, Cindy and OZIO eventually emerged into 
+the corridor, Shorty had disappeared from sight, though OZIO tracked him down 
+by following the faint whistling of air escaping from the Kim. 
+
+They put as much distance as they could between themselves and the stores, before 
+stopping at last in a distinctly damp and draughty room at the very edge of the 
+UnderCity. A dim, misty light, and an unidentified roaring sound drifted down a 
+passageway from the outside. 
+
+"Phew! Should be safe here for a while," Shorty declared. "Muscles, unload that 
+lot, and OZ, can you rustle up some food — better make lots," he added, with a glance 
+at the enormous bulk of Muldoon. "Then you could sort out our haul and dump what 
+we don't need. Wake me up when breakfast's ready. I'm not used to all this 
+gallivanting around at night." He bundled the almost flat Kim into a pillow, 
+stretched out and fell asleep. 
+
+"Coo, my feet are killing me." Cindy sat on a rucksack and kicked off her high 
+heels. She sniffed the air distastefully. "And before you say anything, Peregrine, it's 
+this nasty place that pongs, not my feet!" 
+
+"Duh, right, Cind...Uh, just a minute I fink I got it.. Yeh, huh, huh, huh. How does it 
+smell? A bit oily. Yeh, I get it. Huh, huh. That’s funny. Do you know any more 
+jokes, Mr. OZIO?" 
+
+"Oh, yes indeed I do," replied a very happy happibot. It was just as well that Shorty 
+slept through the next half hour, especially as either Cindy or OZIO had to explain 
+
+
+16 
+
+
+
+every joke at least once. 
+
+
+After breakfast, they all tried on the rad-suits and bubble helmets that the 
+sales-droid had selected for them — with a remarkably good sense of size, it should 
+be added. Shorty thought that, wearing them, they could pass as robots if they 
+happened to meet any real ones outside. Unfortunately, the sales-droid hadn't been 
+able to see OZlO's feet, and had failed to realize that its hat didn't come off. They 
+tried cutting holes to fit around the offending protuberances, but it didn't look right 
+and the suit was taken off. 
+
+In the end, Cindy suggested that if they met any proper robots, they could pretend 
+that they had captured the dangerous happibot and were taking it into the jungle to 
+dispose of it. OZIO was not very happy with that idea, on account of what would 
+happen if the robots offered to do the job for them, but couldn't come up with 
+anything better. Shorty didn't like the idea, on account of it wasn’t his, but was 
+similarly stumped. Muscles thought it was great, on account of it was Cindy's idea. 
+So that was the suit problem settled. 
+
+OZIO had repacked their gear, so that Muscles now only had four neat rucksacks to 
+carry, rather than six and two loose tents, and as soon as they had got him loaded up, 
+the party headed for the distant light. 
+
+"What's that funny noise?" asked Cindy, listening to the ever-louder roaring. "Do 
+you think it's a wild animal?" 
+
+"Must breathe in through its ears, if it is," commented Shorty, "because it never 
+stops roaring." 
+
+"Duh, Cindy, can animals breave through their ears?" 
+
+Cindy was still thinking about this when they turned a bend in the passageway and 
+saw the answer. The tunnel appeared to end in a solid wall of water. 
+
+"Have we got to go through there?" wailed Cindy. "It'll ruin my hair-do!" 
+
+"I say, arf, arf, arf. What is the cure for water on the brain?" OZIO waited for an 
+answer , received none, and carried on. "A tap on the head! Arf, arf, arf!" 
+
+While OZIO explained the joke to an interested, but puzzled, Muldoon, Cindy 
+hunted in the number three rucksack for an umbrella, and Shorty went to investigate 
+the waterfall. When he came back a few moments later, Muscles was chuckling 
+happily, OZ1 0 was beginning to wonder if his efforts were really worth while, and 
+Cindy was demanding to know who hadn't packed her umbrella. 
+
+"It's all right," he announced. "I've found a stairway tucked away by the side. 
+
+
+17 
+
+
+
+Daylight flooding from the top of it. Trust Shorty Witherspoon to find a nice, safe 
+and dry way out!" 
+
+Well, it was dry. Not very nice though — at least, Cindy didn't think so. The little 
+curved stairway had a rather low roof, and seventeen families of industrious spiders 
+had installed wall-to-wall suspended ceilings all the way up. Shorty, of course, 
+hadn’t noticed. Cindy did, and she complained all the way up. 
+
+At least it was a safe way out — or was it? Shorty reached the top, turned right to 
+head out and blam! He reeled back clutching his nose. OZIO joined him at the top 
+of the stairs and looked around. 
+
+I say, Mr Witherspoon..." he began. 
+
+"Dot anodder joke. Dot dow!" snapped Shorty, still massaging his nose. 
+
+"Oh, no, sir," OZIO assured him. "I was just going to remark that we are inside the 
+dome." 
+
+"I dow we're inside de dobe, you pik-footed derd! I've bagged by dose trying to get 
+out!" 
+
+"No, sir," the droid explained. "We are actually in the dome itself — between its 
+transparent walls. I can see them quite clearly in the ultra-violet range. The door is 
+just to your left, and there is a handle about waist-height. Perhaps shoulder-height 
+would be a better description," he added as Shorty fumbled at the wrong level. 
+
+In the end, OZIO opened the door for him. It lead onto a rocky ledge at the base of 
+the dome. The humans fumbled their way through the doorway and stood together 
+on the ledge. 
+
+"Coo, On the Edge of Paradise!" said Cindy breathlessly. She had once watched a 
+film with that title, and had often wondered what it meant. 
+
+
+18 
+
+
+
+4 
+
+
+Eden's jungle — the Garden of Paradise! What a magnificent sight! In the distance, a 
+rolling backdrop of lush dark green, with pyramids of dark earth and stone 
+thrusting up above the treetops. Beside them, and flowing away below and to the 
+right, the rushing waters of the river, sparkling blue and white, flecked with gold by 
+the brilliant morning sun. Between the river and the jungle, a broad lawn of 
+low-growing greenery, gay with flowers of every hue, and broken here and there 
+by vine-encrusted hulks of abandoned, rusting machines, and a scatter of fresh, 
+brown mounds. At the bottom of the slope below them, three weedibots, with no 
+appreciation of the wonders of nature, were busy with flame-throwers. 
+
+Shorty took one glance down, then pressed hard back against the invisible wall and 
+closed his eyes. "It’s flaming kilometres down there! Have you seen how small those 
+robots look?" 
+
+"Excuse me, Mr. Witherspoon, but I think they are small robots, and it is not 
+actually that far," interposed OZIO. 
+
+"Nonsense, everyone knows those forest fighters are fifteen metres high. How am I 
+supposed to get down this mountain?" Shorty trembled. 
+
+"Arf, arf, arf. It is not getting down that is difficult., it is the getting down in one 
+piece! Arf, arf, arf!" OZIO said, trying to jolly up his master. As that didn't work, 
+he tried the magic word, "Gold!" 
+
+"You're right, OZIO. Come on, you lot, what are we hanging about for?" He gritted 
+his teeth, half-closed his eyes so that he couldn't see so well and started to shuffle 
+down on his bottom. Cindy, whose stilletto heels had already caught on the uneven 
+ground twice in three steps, followed in the same fashion. So did OZIO, whose shoes 
+would not allow any other form of descent. Muscles didn’t know why everyone was 
+sitting down on the job, but thought he had better do the same. 
+
+Any physicist will tell you that large heavy bodies with smooth bottoms pick up 
+momentum faster than smaller, lighter ones, on the same slope.... 
+
+At first, Muscles fought against his gathering speed, then he started to enjoy it. It 
+reminded him of the play-park where he had had so much fun as a child, and from 
+which he had been banned at the age of ten after the big slide collapsed under his 
+weight. "Weeee! Mind out, 'ere I come.." 
+
+They didn't mind out, and Muscles didn't mind. He cannonned into the back of 
+OZIO, then propelled him against Cindy, who was crushed against Shorty, who 
+
+
+19 
+
+
+
+flailed his arms and legs madly, but to no avail. They hurtled down the slope — near 
+vertical at times, but fortunately flattening out towards the bottom. 
+
+"That reminds me, arf, arf, arf!" said OZIO as they bounced over and onto hard 
+rocky bumps, "there was this man who fell down stairs. 'Did you miss a step?' asked 
+his friend. 'No,' he replied, 'I hit every one!' Arf, arf, arf!" 
+
+OZIO needn't have bothered. The wind of their passage whipped his words away 
+behind him, where only Muscles could hear. 
+
+Bounce, bump, bang. Skid, slither, smack, scrunch, crash, whumph! Or words to 
+that effect. They had come to a stop at the bottom. Muscles was the first to speak. 
+"Duh, that was lovely! Wasn't it, Cindy!" 
+
+Cindy giggled, still a bit breathless. "Ooh, yes. But if my bottom's all bruised, I shall 
+be cross with you, you naughty boy. ..'Ere, where's Mr. Shorty gone?" 
+
+They got up to look for him, and found him instantly. "Are you alright, Mr. 
+Shorty?" asked a worried Muscles, peeling him off the ground. Shorty was 
+speechless with shock, squash and rage, but a rumbling began from deep inside, like 
+a dormant volcano throbbing back into life. Fortunately for Muscles, the eruption 
+never got beyond the first splutterings. A new problem, in the shape of 
+flame-throwing weedibots, arrived on the scene. "Eeek!" squealed Cindy, surprised 
+by their sudden appearance from behind a low hill. 
+
+"Remember you are a robot, miss," cautioned OZIO. "Mr. Witherspoon, Sir, we 
+have company." He directed Shorty's attention to the new arrivals. Shorty took one 
+look, then his anger suddenly dissolved into a broad grin as he realised that the 
+fearsome fifteen metre high forest fighters were actually one-metre weedibots. "If 
+there's any trouble, Muscles, blow their flame-thrower out and toss them in the 
+river. Or perhaps I'll do it myself." Robots smaller than himself were a new 
+experience for Shorty. "No, perhaps not.” They weren't that much smaller. 
+"Muscles, when I say 'blow', do it." 
+
+"Do what?" said Muscles, who hadn't been paying attention. He had almost worked 
+out the joke about the man falling down the stairs. 
+
+"Blow their flame-throwers out.." 
+
+"Like on a birthday cake, you mean?" asked Muscles. 
+
+"You don't have flame-throwers on birthday cakes, you great lunk. You have 
+candles..." 
+
+"Duh, but they've got flame-frowers.." 
+
+
+20 
+
+
+
+Shorty rolled his eyes and threw up his hands. He gave up — there was not time to 
+continue anyway, as the weedibots were too close. They moved with a peculiar 
+syncopated rhythm, swaying from side to side as they swept the ground in front of 
+them with the flame-throwers, but their feet moved up and down in double time. 
+They were quietly chanting "Ooch, ouch, ooch, ouch!" as their feet touched the hot 
+ground. 
+
+Excuse me, good droids," called Shorty, "but why don't you walk backwards and 
+burn behind you?" 
+
+The weedibots put their circuits together as they swayed, then piped their reply in 
+unison. "Because we have already done behind us." 
+
+Shorty persisted. "Yes, but if you turned round now and went that way, that would 
+be more efficient." 
+
+Efficient! Ah, now there's a word to make a robot happy. The three had another 
+conference. "Yes, it would be more efficient, and out feet would not get hot. May 
+your chips run cool and you lubricants never dry." As they spoke their gratitude, 
+they swept round in a wide arc — taking care not to catch each other with their 
+flame-throwers — until they were facing the way they came. 
+
+The adventurers watched the little droids back away. Cindy was smiling at them and 
+waved as they disappeared round a large rock. "Oooh, aren’t they sweet! That was 
+ever-so kind of you, Mr. Shorty, to help them out like that." 
+
+"Not at all, not at all!" he replied, with an evil grin. He cupped his hand to his ear 
+and waited for a moment. There were three little splashes and three little hisses as 
+the weedibots backed into the river. "I thought they might do that," he chortled. 
+"Just leave it to Shorty to sort out these robots." 
+
+
+21 
+
+
+
+5 
+
+
+He was still chortling over his success when they ran into the forest fighters. 
+Contrary to popular myth, these are not fifteen metres high. Measured from their 
+scythe-edged boots to the eight-barrelled laser cannon mounted on their heads, they 
+are actually just over 23.9 metres high. They had been obscured from view by a 
+substantial copse in the middle of the plain, and didn't so much step out of the trees 
+as over them. 
+
+Cindy fainted at the sight; Shorty quailed inside his rad-suit and had lots of rather 
+belated regrets about starting on the expedition; and Muscles, who was listening to a 
+joke that OZIO was trying to tell him, didn't take any notice. 
+
+"Are you the new weedibots?” boomed the nearest forest fighter. 
+
+"Erm..er..hurrm.. er.." Shorty tried to find a voice. 
+
+"We have been told to watch out for three criminal fugitives accompanied by a 
+deranged droid in camouflage colours," the giant robot continued. "If you see them, 
+you should destroy them instantly." 
+
+It turned its close focus vid-cam on the group and began to scan them suspiciously. 
+Shorty found his voice at last, and decided to try Cindy's plan, seeing as how his 
+churning brain wasn't producing anything better. "We have caught the revolting 
+robot, and are proceeding to the jungle to dispose of it." As he spoke, he tugged 
+Cindy to her feet and began to back his group up a small hillock. 
+
+"To dispose of it in the jungle?" echoed the forest fighter. "We were told to 
+eliminate it instantly. Stand back. I will do it now." 
+
+"No, no," said Shorty hurriedly. "These are new instructions from the top. It's a 
+clever plan. This happibot is going to joke the jungle to death..” Somehow — perhaps 
+it was the way he said it, perhaps it was just the way it was — it didn't sound that 
+convincing, even to Shorty. They had almost reached the top of the hillock and 
+Shorty glanced round, looking for somewhere to run to. It was not a promising 
+sight. The jungle edge was a full kilometre distant, with a clear field of fire all the 
+way. And if they could reach the jungle — what protection could it give from forest 
+fighters? "Blow it!" he said. 
+
+"Duh, I can't see their flame-frowers, Mr. Shorty," called Muscles. 
+
+"Shorty!" the leading forest fighter exclaimed. "Fugitives! Exterminate, 
+exterminate!" It raised its enormous proton-beam sheer and aimed it at the group. 
+
+
+22 
+
+
+
+"Hit the deck!" shouted Shorty, throwing himself into a dip at the top of the hillock. 
+The others dived down with, or on top of him — and the ground gave way. They fell 
+clear through and landed in a confused heap some metres below. Loose soil rained 
+down around them. A fizzing and frazzling from the top of the hole told of the beam 
+sheer hard at work. 
+
+"Coo, that was clever of you to find this hiding place, Mr. Shorty! And it's so pretty 
+too." Cindy breathed her admiration. 
+
+Shorty was about to take full credit for his masterly leadership when he realised 
+what she was looking at. The walls of the tunnel into which they had fallen, were 
+studded with gleaming, sparkling stones. "Gold and glittering gems! Diamonds!! 
+Rubies!! Emeralds!! I'm rich! Rich!! RICH!!!!" He leapt up and ran along the 
+tunnel, caressing the walls. He bounced with joy; tried to do a cartwheel and fell 
+rather badly; bounced up again and ran about some more. Then, whipping out his 
+Acturian army knife, he fumbled with the blades until he found the one for getting 
+stones out of centaurs' hooves, and started prising stones out of the walls. 
+
+"Nice to see him happy." commented OZIO, with a good feeling of job satisfaction. 
+1 11 say, arf, arf, arf! Did you hear about the millionaire who never took a shower? 
+He liked to be filthy rich! Arf, arf, arf!" 
+
+Cindy was still explaining it to Muscles when Shorty staggered back with his arms 
+full of stones. "Look at them! Rich!! And there's tonnes more where these came 
+from!" He was beside himself with glee. 
+
+Duh, my mum had lots of these. A sort of collection like. If we was good, she'd let 
+us have one by our beds when we went to sleep." Muscles picked one up and looked 
+at it with fond memories. 
+
+"What are you on about? These are jewels, precious stones, worth a fabulous 
+fortune. ...aren't they?" he looked to the rest of them for confirmation. 
+
+"Well, they're ever-so pretty." agreed Cindy. "Funny the way they glow, though, 
+isn't it. I mean, they don't glow like that in the jeweller's shop do they?" 
+
+"She had a word for it. What was it? Flouride? Floorpolish? Flor.." 
+
+Fluorescent?" suggested OZIO. He clicked one of his vid-cams into 
+electron-micro-mode and examined the stone that Muscles held out. "Naturally 
+fluorescent stone. They are not uncommon, Mr. Witherspoon. If you have not seen 
+them before, it is probably because no-one has found any great use for them in the 
+cities." 
+
+
+23 
+
+
+
+"All right, what about this then?" Shorty searched through his pile to find a lump of 
+gleaming yellow metal. He tossed it to OZIO. The happibot examined it briefly. 
+
+"I am very sorry to cause you unhappiness, sir, but this is a compound of iron and 
+sulphur called pyrites. On Ancient Earth it was known as ...Fool’s Gold." 
+
+"How can you tell? How can a happibot know all this?" Shorty wavered between 
+anger and misery. 
+
+"All droids have certain basic functions, Mr. Witherspoon. Analytical Chemistry is 
+written into the general knowledge chip." OZIO looked sadly at its master, and tried 
+to think of ways to cheer him up. He did not think he would tell him a joke, just at 
+that moment. 
+
+"Perhaps, sir, we could find profit here after all," it said, suddenly brightening up. 
+"We could take back stones to make into pretty bedside lights for children, in the 
+fashion of Mother Muldoon. You could perhaps earn an honest living that way." 
+
+"I don't want to earn an honest living. I never have done, and I'm not starting now." 
+Shorty was adamant. "I want to be rich. And I know there's treasure here 
+somewhere. These things are just to throw us off the scent. Shorty-Lefty couldn't 
+have been wrong. We are going on!" 
+
+They took off their rad-suits, which were a bit hot to wear in the tunnels, then 
+mended the leak in the Kim, and inflated it, in case they met any aliens. The next 
+problem was to decide which way to go. Shorty wanted to head back in the direction 
+of the city, because he thought Shorty-Lefty would probably have done his 
+exploration closer to home; Cindy wanted to go the other way because she thought 
+the walls looked prettier down there; Muscles had turned round three times and 
+couldn't work out which way was which; and OZIO told them the story about the 
+two students who could not decide what to do. 
+
+"..so in the end, they agreed to toss a coin. If it landed heads up, they would go to the 
+drinking den; if it landed tails up, they would go and find some girls; and if it landed 
+on its edge, they would stay in and study. Arf, arf, arf!" 
+
+"Duh, what's a coin, Cind?" asked Muscles, but she didn’t know either. 
+
+Shorty thought maliciously that they should toss OZIO to decide the issue, and had 
+asked Muscles to do it when the droid pointed out that the Kim would spin better. 
+The Kim landed face down, so they went into the tunnel away from the city. 
+
+"Well, wonder-droid," asked Shorty after they had been walking for a while, 
+"anything in your general knowledge chip about these tunnels?” 
+
+
+24 
+
+
+
+Very little, I am sorry to say, Mr. Witherspoon. They have almost certainly been 
+constructed by an alien lifeform, and all alien data is on the classified chip, which is 
+not in my bank. Should you not ask your flora and fauna expert?" 
+
+The f & f expert was in deep discussion with the expeditioning expert about the 
+nature of the fluorescent stones embedded in the walls. 
+
+"Coo, there's a pretty little red one, Peregrine. Isn't it nice?" 
+
+"Duh. My mum had one just like that. I thought it was a sweetie and ate it. She wasn't 
+half cross with me." 
+
+Shorty interrupted their mineralogical deliberations;. "Cindy," what a ridiculous 
+name, it suddenly occurred to him. Who could expect anyone with a name like that 
+to be an expert on anything — except perhaps nail polish! He ploughed on for lack of 
+anything better to do. "Cindy, as our animal expert, what can you tell us about the 
+type of creatures that built these tunnels?" 
+
+"Do you mean somebody built these? Coo! I hadn't thought of that!" She looked 
+around with renewed amazement. "Yes, I suppose you're right." Shorty groaned 
+inwardly. "I'll tell you something, Mr. Shorty," she added, "whoever dug these was 
+big. I mean, look where Peregrine's head comes to." 
+
+Great Starships, she was right! Shorty looked at the clear metre between Muldoon's 
+close-cropped bonce and the top of the tunnel. A sudden vision of terrifying 
+two-tonne aliens, three metres tall, stopped him in his tracks. He stepped back in 
+fear, onto OZlO's foot. It was a mistake. OZIO was unable to break its stride and it 
+flipped Shorty head over heels. 
+
+He lay where he had landed. "That's it!" he muttered, "I've had it. I’ve been thrown 
+down mountains, sat on by gigaphants in human shape, shot at by rampaging 
+rambobots, pushed down holes, and now kicked about by my own happibot! I've had 
+enough. I'm going back to a simple life of crime." 
+
+"Poor Mr. Shorty, you're just tired and hungry. That's all. Our nice Mr. OZIO will 
+get us some supper then we'll have a lovely sleep and feel ever-so much better in the 
+morning." Cindy fussed over him, propping him up against the Kim for a pillow. 
+"There, I knew we'd find a use for this thing." 
+
+
+25 
+
+
+
+6 
+
+
+Later, after OZ1 0 had fed its humans and watched them settle down to sleep, it set 
+off to find a quiet spot for a bit of private practice. Its jokes weren't producing the 
+right reactions from its audience and OZIO wondered if it was the way it was telling 
+them. It had decided to practice telling them in different ways. Perhaps it should 
+make more use of its speech synthesiser. 
+
+Not so far from their camp, he came across an opening in the tunnel wall. It opened 
+out into a wide, low-ceilinged chamber. Soft white potato-like tubers protruded 
+from the roof close to the droid's head. He tested the acoustics. They were good. 
+Those potato-things could well have been installed to cut down echoes. He went into 
+his routine. 
+
+"Barber: I say, Sir, were you wearing a red scarf when you came in? 
+
+Customer: No. 
+
+Barber: Oh, dear!" 
+
+OZIO tried it a few more times with different voices. Were some funnier than 
+others, it asked itself, as it replayed the set using its integral tape-recorder? It was a 
+difficult question to answer as OZIO had no proper sense of humour — just a 
+four-chip joke bank. Anyway, would the humans know what a barber was? 
+
+"First Man: I say, did your compu-watch-phone stop when you dropped it on the 
+floor? 
+
+Second Man: Of course it did. Did you think it would fall straight through?" 
+"Hee-hee-hee-hee-hee! Haw-haw-haw! Hee-hee-hee-hee!" 
+
+Someone was laughing! Giggling like the proverbial idiot, and it was not Muscles. 
+OZIO flapped round to see who it was. There was a creature squatting behind the 
+droid. It was slightly shorter than OZIO, covered in glossy fur — slightly splattered 
+with mud — with small bright eyes, a long whiskery snout and little pointy ears. It 
+was set back on its haunches, clutching its tail in its mouth as it tried to suppress a fit 
+of the giggles. As it got a full frontal of the droid, it let go of the tail and collapsed 
+on the ground, rolling around, kicking its legs in the air and roaring with laughter. 
+
+OZIO had never had that reaction before. It waited with a smug grin on its 
+speech-synthesiser dust-cover until the creature had subsided. It was a long wait, as 
+every time it began to pull itself together and mop the tears from its eyes, it would 
+catch sight of OZIO and burst out laughing again. If OZIO had not been such a 
+patient droid, it might have found it all rather trying. 
+
+At last it settled down, rummaged in its shoulder bag, found a large spotted hankie 
+
+
+26 
+
+
+
+and blew its snout loudly. 
+
+Oo-ar! You're bootiful. Really bootiful. Oi ain't larfed loike that not since Oi wur 
+a little un. You know any more o' they funny stories." The creature mopped its eyes 
+and sat waiting. 
+
+"Oh, yes! Lots!" replied OZIO enthusiastically. "If you do not mind me saying it, 
+sir, you have a remarkable command of English for an alien." 
+
+"Now not so much o' the alien, my old pal, my old booty. Oi do be a native o' these 
+parts. It s your sorts as is the aliens. Oo-ar! As for speakin' your lingo, we picks it 
+up with a bit o' the old telepathy loike. Now me, Oi loikes to tune in to folks as is 
+listenin’ to the old radio. Oi do be an Archers fan meself. Never misses an episode. 
+Oi ain't be so keen on yon television, though Oi do be partial to the old cowboy 'n' 
+injun fillums. Alius fancied bein' an injun meself." 
+
+"That reminds me, arf, arf, arf. Did you hear the one about the new cowboy at the 
+ranch? Arf, arf, arf. The cowboy asks 'What is the name of this ranch.' The rancher 
+replies, It is the Triple-Bar Lazy G Snake River Double OO.' The cowboy asks, 
+'How many head of cattle do you have?' The rancher replies. 'Not many. Only a few 
+survive the branding!’ Arf, arf, arf!" 
+
+This set the alien — sorry, native — off again. OZIO, its circuits fairly melting with 
+the glow of success, could scarcely wait until it had simmered down before telling 
+another. And so the night passed in electronic merriment. 
+
+When Shorty and the others discovered them in the morning — Shorty complaining 
+about where had that spotted skiver sneaked off to and where was his breakfast — 
+OZIO was bending over the creature which was murmuring weakly. "Oo-ar! You'll 
+'ave to stop. Oi cam't take no more!" 
+
+"We've been hunting for you everywhere, you dozey droid." Shorty announced 
+angrily. " Drifting snowballs! What's that?" 
+
+"What have you been doing to the poor little thing?" demanded Cindy. 
+
+"Ah, good morning, sir. Good morning, miss. Allow me to introduce 
+him-whose-eyes-shine-like-an-alien's-sit-upon, otherwise known as Whiskas." He 
+gestured to the creature that had struggled into a sitting position, and was now 
+mopping itself with a very soggy hankie. "Whiskas, this is Mr. Shorty 
+Witherspoon.." 
+
+"An' good day to you there, Mr. Short-and Withered-Spoon. Any friend of 
+'im-with-the-big-mouth-what-swallowed-the-awful-joke-book is friend of moine." 
+Whiskas waved a paw weakly at him. 
+
+
+27 
+
+
+
+"..Miss Cindy Longshanks.." OZIO continued the introductions. 
+
+"Oo-ar! Now we'll call you 'er-whose-legs-go-right-up-to-’er-sit-upon. Oo-ar!" 
+Whiskas pulled himself up for a closer look. 
+
+"And I'm Muscles." said Muscles, crawling between the two. The roof was too low 
+for him to stand up. 
+
+"Ar! You'll be 'er-whose's 'orse now, will you? 'ow come you can talk? Oo-ar! An' 
+who's that quiet one you're dragging behind you?" Whiskas pointed to the Kim. 
+Muscles was able to understand that question. "This is the Kim," he announced, 
+standing the model up so that Whiskas could see it. 
+
+"Oo-ar! 'ello there, my little booty. An' what's a noice gurl loike you doin’ in a 
+place loike this?" 
+
+While Whiskas tried to strike up a conversation with the inflatable Kim, Shorty took 
+the opportunity to quiz OZIO. "Is that an alien?" 
+
+"No, sir. He is a native, and I might add, sir, that he has a most excellent sense of 
+humour.." OZIO smiled benignly in Whiskas direction. 
+
+'Er-with-the-big-whatsits-and-empty-'ead don’t talk much. Oi likes quoite females. 
+Now tell us, what are you aliens doin’ in moy garden?" 
+
+"Aliens! Garden?” He looked at the tubers hanging above them and realised what 
+they were. "Hey, I'm the boss round here." Shorty noticed that the native had turned 
+to OZIO for his answer. He was not having the droid steal his show, and his 
+confidence had recovered rapidly once he had realised that he wasn't going to have 
+to deal with two-tonne, three metre monsters. Besides, OZIO would almost 
+certainly tell the truth, and Shorty couldn't have that. "OZIO, how about some 
+breakfast, and perhaps our guest would join us? You loike some food, moy old 
+booty?" he asked ingratiatingly. 
+
+"Whoy do you talk funny, Mr. Short-and-Withered-Thing?" 
+
+Over breakfast, Shorty span a tale of fleeing from the oppressive robots in Enoch, 
+and of coming to the outlands to offer their services to the natives in their fight 
+against the invaders. Whiskas, who listened with his head as well as with his ears, 
+didn't believe a word of it, but was too polite to say so. 
+
+"You mean loike in the western fillums? Us natives bein' the injuns, and you folks 
+bein’ the cowboys? An' Oi suppose they big metal things is loike the US cavalry? Oi 
+seen all they old movies." 
+
+
+28 
+
+
+
+"Er, yes.." Shorty thought it sounded right, but the only old vids he ever watched 
+were gangster films. James Cagney and Mickey Rooney were his favourite actors. 
+
+"Ar! Now they injuns, they're brave, aren’t they?" Shorty nodded in agreement. 
+"Alius foightin', aren't they." Whiskas continued. Shorty nodded again vigorously. 
+"Alius gettin' theyselves killed, aren't they?" The native waited for Shorty's 
+reaction. The little man eventually nodded doubtfully. "Ar, Oi noticed that as well. 
+Oi think Oi'll stick to tendin' moy garden." 
+
+Whiskas finished the last of OZlO's waffles and licked his chops clean with a long 
+pink tongue. "Oo-ar! That were really bootiful, Spotty. You can come an' live in 
+moy tunnel any toime you loike...an' so can you, moy old booty" he winked at the 
+Kim. "Don't eat much, noither, do she?" he added. "Now, Oi gotta go an' meet some 
+folks. If you'd loike to come along, you'll be welcome." 
+
+As they walked along, Shorty raised the question that had been troubling him for 
+some time. How did little Edians like Whiskas — and were all Edians little like 
+Whiskas? — dig such high-roofed tunnels? 
+
+"Well now, this 'ere tunnel don't 'ave an 'oigh roof....” 
+
+"Doesn't it?" Shorty had visions of vast underground caverns. 
+
+"..No. It's got a low floor." 
+
+"Where are all the other Edians, Mr. Whiskas?" asked Cindy. 
+
+"They’ll be 'eadin' for meetin's same as we are. We alius get together of a thursday 
+to have a few jars an' swap a few stories. Old Spotty there, 'e did tell Oi some funny 
+ones last noight." 
+
+"But I thought it was tuesday today!" said Cindy, who had been trying to keep track 
+of time. 
+
+"Oh, no. It's alius thursday down 'ere." 
+
+"Excuse me," interrupted OZIO, "but my sensors are picking up robotic activity 
+quite close by." 
+
+"Nonsense!" said Shorty. They had reached a section of the tunnel which ran almost 
+perfectly straight for as far as the eye could see in either direction. He noticed 
+Whiskas scrabbling at the tunnel wall, digging a private escape route. "Hey! Where 
+are you going." 
+
+
+29 
+
+
+
+"Oi believes moy old mate Spotty," came the muffled reply. Whiskas could tunnel at 
+a remarkable rate of knots. Before you could say 'Come back here, you long-tailed 
+coward’ he had all but disappeared, kicking the earth to close up the tunnel behind 
+himself. 
+
+"Duh, what's happening, Mr. Shorty?" asked Muscles. 
+
+"Nothing! I don’t know what all the panic is about," replied Shorty. He soon found 
+out. 
+
+There was a noise of earth falling, then six fighterbots dropped one by one down a 
+ventilation shaft/molehill about fifty metres ahead of them. They landed lightly and 
+lined up across the tunnel, laser fingers pointing directly at the adventurers. Shorty 
+spun round, about to run, then froze. Another six fighterbots had dropped down a 
+shaft behind them and were lining up for action. 
+
+"Shorty Witherspoon, you are charged with misuse of the Kim for illicit purposes, 
+to whit the theft of five rad-suits and matching bubble-helmets, three tents, four 
+hand lasers.." began the commanderbot. 
+
+"Quick! The weapons!" cried Shorty. 
+
+"Oh, I am terribly sorry, Mr. Witherspoon," said OZIO. "I did not pack them. I 
+thought that someone might get hurt if I did." 
+
+"... and with the drowning of three weedibots. You are therefore fined 32500 
+credits. I am obliged to advise you that refusal to pay will result in your death." the 
+commanderbot concluded. 
+
+"Ooooooh! No." wimpered Shorty.. 
+
+"Fire!" called the commanderbot — he took that for a refusal. 
+
+"Hit the deck!" yelled Shorty. (It had worked last time, he remembered.) 
+
+Shorty, Cindy, OZIO and Muscles threw themselves down, in that order — and in 
+more or less the same place. The fighterbots fired. For a moment the air was filled 
+with blue lightning and the electric crackle of ionising air, then there were twelve 
+almost simultaneous explosions followed by an eerie silence broken only by the 
+whistle of a slowly deflating Kim. The fighterbots, those perfectly co-ordinated 
+fighting machines, had lined up with millimetric accuracy and fired directly into 
+each others lasers. 
+
+Shorty, who could neither move, see, nor hear, was convinced that the tunnel had 
+caved in, and that his time had come. His life flashed before him — a long history of 
+
+
+30 
+
+
+
+lies, cheating and stealing. If by some miracle he came out of this alive, he would 
+change. He wouldn't waste the rest of his life in petty crime and petty treachery. No, 
+he'd go in for big crimes and big treacheries — there were more credits in it. He had 
+just decided on his first big job — robotocide, with OZIO as the victim — when 
+Muscles got up and let the others clamber off Shorty. 
+
+"I say," said OZIO, "that firing squad did not offer us a last request. They are 
+supposed to, you know. It reminds me of the story of the man who was about to be 
+shot, and the commander of the firing squad said.." 
+
+"Let me get at him!" yelled Shorty, struggling to his feet and rushing at OZIO. 
+Muscles held him off, absent-mindedly. "Duh, did he really say that, Mr. OZIO?" 
+
+"No, no," replied the droid. "The commander said, 'Do you have any last request.' 
+And the man replied.." 
+
+"I'll kill that crazy-chipped clown!" Shorty thrashed at the end of Muscles' arm. 
+
+"Duh, whose telling this joke, Mr. Shorty? I'm getting confused." 
+
+"...the man replied," continued OZIO, "'Yes. I would like to sing a song. Nine 
+hundred and forty seven thousand, three hundred and sixty two green bottles, 
+standing on a wall...' Arf, arf, arf!" 
+
+"Hee-hee-hee! Haw-haw-haw! Oo-ar, that’s a good un! Ha-ha-ha! You’ll 'ave to tell 
+that un at the meetin', Spotty." Whiskas had reappeared. He crawled the rest of the 
+way out of his hidey-hole and looked around. ”Oo-ar! Look-ee 'ere. All they metal 
+men blowed up, and you lot just a-standin’ there as cool as you please, tellin' jokes. 
+Well, Oi do 'ave to ’and it to you gentlemen and ladies.... Ol! ’ello, what 'appened to 
+'er with the big whatsits? She do be looking a bit flat." 
+
+After Shorty had been calmed down — after all, he was still alive, was he not, and the 
+fighterbots were all reduced to smouldering heaps of silicon and steel, were they 
+not, and Whiskas thought he was a hero, did he not — and the Kim had been patched 
+up, yet again; Whiskas led them off to the meeting places. 
+
+
+31 
+
+
+
+7 
+
+There were several different meetings in progress in a cluster of chambers off one 
+of the side tunnels. 
+
+"We’ll start off in 'ere," said Whiskas, beckoning them into one of the chambers. "It 
+do be the Meeting for the Advancement of National Integration into the Alien 
+Culture. MANIACs they calls theyselves. Oi thinks they be nutters. They bain't be 
+integrating Oi." 
+
+The room bore a remarkable resemblance to the Snake in the Grass, except that the 
+tables and stools, instead of being of angular moulded plastic, looked as if they were 
+made from giant toadstools. Shorty automatically sat down at the nearest table. The 
+stool and table collapsed mushily beneath him. 
+
+Whiskas helped him up. "Oi were about to warn you about they. They bain't be for 
+sittin' on. They do only be for show. Oi told you they were all nutters. This do be 
+the most uncomfortable room under the earth." Shorty looked around and realised 
+that the MANIACs were all squatting a few millimetres above the stools, holding 
+their jars just clear of the table-tops. "Oi brought you all some real aliens, loike!" 
+Whiskas announced to the MANIACs. "Do you want to be cornin' an' lookin’ at 
+'em?" 
+
+
+The squatting natives moved stiffly away from their tables and straightened 
+themselves painfully. There was a slow chorus of 'Oo-ar!' as they caught sight of 
+Cindy. The Kim, which hadn't been fully inflated so that it was easier to carry, 
+didn't produce the same reaction. The aliens (Shorty & Co.) were offered jugs of 
+ParaVin — or at least, a fluid that they called ParaVin. Shorty took a grateful swig — 
+then dropped the jug and ran out of the room clutching his mouth. Cindy noticed 
+and said thank you, but she wasn't thirsty. Muscles asked for another as he was 
+thirsty and the first one had hardly wet the sides. 
+
+The MANIACs were very keen to learn about life in Enoch, and listened avidly as 
+Cindy told them about all the wonderful things they had — like nail polish in 27 
+different colours; and wall-to-wall carpets (the carpets are actually quite small, but 
+they follow you from wall to wall as you move); and soap operas that you can watch 
+at any time of the day and that reminded her, she had to get back by next friday 
+because they were going to start another rerun of Pallace; and pre-packed meals; 
+and shopping on Saturday mornings. Muscles told them about the excitement of life 
+as a bed-tester, and sorry, he couldn’t think of anything else. And when Shorty came 
+back, he answered questions on the things he knew best — fuzbots, fines and body 
+banks. By the time OZIO had chipped in with some of his best 'life in Enoch' jokes, 
+the MANIACs had called an emergency general meeting and unanimously decided 
+
+
+32 
+
+
+
+to change the name to the Meeting for the Advancement of National Independence 
+from the Alien Culture. 
+
+As Whiskas led them quickly away, the new-style MANIACs were having a mass 
+sit-on to destroy the furniture. 
+
+He took them past the next chamber. "Oi bain't goin' in there. Oi values moy ears 
+too much," he said. "That do be the Meeting for the Advancement of Government 
+by Geriatric, Intransigent Egotists. They MAGGIEs don't never stop talking. Mind, 
+they bain't be no-one as listens to they, not even theyselves." 
+
+"This do be where Oi usually comes," Whiskas pointed out another entrance. 
+
+"What's your meeting called?" asked Shorty. 
+
+"Ah, well! We’ve been workin' on a name these last ten years, but 'aven't decided 
+yet. Thing do be, they bain't be anythin' that we wants to advance, 'cept boozin' that 
+is, an' if we called it the Meeting for the Advancement of Drinking, our wives 
+would be mad if we joined it. Oi suppose we'd be MAD too, wouldn't we! Hah, 
+hah!" 
+
+They entered a large chamber packed with Edians milling around with large jugs of 
+foaming drink clutched in their forepaws, their foam-flecked snouts alternately 
+dipping into their jugs and quivering in the air as they roared with laughter. On a 
+raised platform at the back of the hall, an Edian in a funny hat was telling jokes. 
+
+"..and did you hear about the alien who wanted to take up water-skiing, but couldn’t 
+
+find a sloping lake? Hey, what do aliens call great big robots with razor-sharp 
+
+claws? — Sir!...." 
+
+"Come with Oi. Oi'll get us some drinks." Whiskas reached into his shoulder bag 
+and took out a handful of diamonds. 
+
+Diamonds! Shorty couldn't believe his eyes. "What do you use those for?" he asked, 
+scarcely able to speak. 
+
+"These? Oh, they do be drinkin' tokens. They bain't worth nothin'. When you gets a 
+drink, you puts one o' these in the bucket by the bar. When the bucket's full, the 
+meetin’s closed. Mind, we 'aven't 'ad to close since old 'Airy thought to put an 'ole 
+in the bottom o' the bucket! Hah, hah! Oi don't roightly know why we still do it. 
+'Abit, Oi do suppose." 
+
+
+33 
+
+
+
+8 
+
+
+Shorty spent the next few hours in a happy haze. He took up a station by the bucket, 
+and caught the diamonds as they fell through. No-one seemed to mind. No-one paid 
+much attention to him at all, in fact. Cindy soon gathered a circle of admirers, and 
+so did the Kim, once Muscles had reinflated her properly. Word soon spread about 
+OZlO's prowess and it was swept onto the stage, to the relief of the resident comic 
+who had been telling jokes ever since the meeting opened — which was nearly 
+seventeen thursdays ago — and had repeated himself so much that even he didn't find 
+his jokes funny anymore. 
+
+When Shorty's pockets were full — and it didn’t take long with that collection of 
+boozers — he started to pile the diamond tokens into the rucksacks that Muscles was 
+carrying. He could have stayed for days and collected wheelbarrow loads full of 
+them — there were several wheelbarrows against the wall, for taking members home 
+after meetings and no-one would have noticed, or minded, if he had borrowed one 
+or two. OZIO had captivated his audience. His jokes were as awful as ever, but the 
+Edians loved awful jokes. His timing and accents were abominable, but these 
+jokaholics lapped it all up and roared for more. 
+
+Shorty noted all this, but the more diamonds he took, the more nervous he felt. For 
+all his bad intentions, he was a petty crook at heart, and didn't have the stomach for 
+'the big job'. (He was also a bit short on the brains, didn't have that much gall, 
+tended to bottom out too soon, didn't like to elbow his way into things that were 
+afoot, and although he had an eye for the main chance, he also had a nose for trouble 
+and would always back out if he thought there was going to be a bust-up). So, after a 
+while, his nerve failed him, and he decided it was time to go. Cindy, who was 
+worried about missing the Pallace repeat, was also ready to go, and Muscles would 
+always do what he was told. Shorty wondered how he was going to get OZIO off the 
+stage, when he realised that it was actually the best place for it. The droid had found 
+its audience. It was a very happy happibot. Besides, as long as it stood there 
+arf-arfing through its terrible stories, Shorty's get-away was assured. 
+
+The three humans (and the Kim) eased their way to the exit, stepping over the many 
+Edians who were by then rolling on the floor clutching themselves weakly. At the 
+door, Cindy turned to wave goodbye to OZIO and to Whiskas but neither they nor 
+anyone else noticed. 
+
+
+34 
+
+
+
+9 
+
+
+"Right, nearly home and dry!" Shorty announced as they walked down towards the 
+main corridor. 
+
+"But won't we still be in trouble with the fuzbots when we get back to the City?" 
+asked Cindy. 
+
+"Don't worry about that, my dear," replied Shorty, in genial mood. "The first thing 
+we do is flog this little lot at the jewellers' then we can pay our fines out of the loose 
+change. There's a fortune in diamonds in that rucksack." He decided to keep quiet 
+about the ones in his pockets. Those were not for sharing. 
+
+"Duh, Mr. Shorty? Which way's the City?" Muscles had reached the main tunnel and 
+was trying to get his bearings. 
+
+"It's obvious isn't it?" asked Shorty. "Those flattened fighterbots should be in sight." 
+
+"Well I can't see no fighterbots nowhere. I don't fink this is the same tunnel either. 
+Look. My head reaches the top. It didn't before, and I haven't grown since we came 
+down here." Muscles was puzzled. So was Shorty. This was not the same tunnel. 
+There must have been more than one way out of Whiskas clubroom. Curses! So 
+where were they? 
+
+"Shall I toss the Kim again, Mr. Shorty?", asked Muscles. 
+
+"Now what good is that going to do, you great moron?" Shorty's good humour had 
+evaporated rapidly, and he was now back to his usual ratty self. 
+
+"Why not give it a spin? It worked last time, didn't it," said Cindy. "Or do you think 
+that we ought to go back into Mr. Whiskas meeting and try and find the right way 
+out?" 
+
+
+"Give it a spin." muttered Shorty. The alternative was worse. 
+
+The Kim fell face down, bounced and settled on its back. 
+
+"Face up. That means we go left, doesn't it?" asked Cindy. 
+
+"No, right. Don’t you remember what we agreed. Bottoms up means nothing left, so 
+this must be right. Right?" Shorty was adamant. 
+
+"Got it," said Muscles with a smile. 
+
+
+35 
+
+
+
+"Good, we're agreed then. Let’s go.” Shorty started down the tunnel, but Muscles 
+hadn't moved. "Duh, no, no, Mr. Shorty. I just got that joke what your happibot was 
+telling us. You know, the one about the green bottles. Huh, huh! TTiat was funny that 
+was. Huh, huh!" 
+
+"Oh, come on!" Shorty fumed and marched off by himself. Behind him, Cindy was 
+still working things out. "Bottoms up — nothing left. Nothing left means right. So 
+bottoms up right. That means face up is left. ...Mr. Shorty," she called after him, 
+"you're going the wrong way. Come, Peregrine." 
+
+Shorty stopped and turned and watched them walking away. What was happening to 
+HIS expedition? They should be following him! He would wait. They knew they 
+
+couldn't cope without him Or did they? There was a very purposeful swing to 
+
+Cindy's stride, and Muscles was following as if on a lead — and the two of them were 
+getting further away every minute "Hang on," he cried, "I'm coming!" 
+
+Cindy really did have very long legs — almost as long as Muldoon's twin treetrunks, 
+though considerably more shapely — and Shorty had very short ones. As Cindy was 
+determined to get back in time for the first episode of Pallace, Shorty had to run to 
+keep up. He didn't know how many kilometres he had run before she finally 
+succumbed to his panted pleadings and stopped for a break. 
+
+He collapsed into a crumpled heap, and kneaded his agonised leg muscles. They 
+were soft and quivering, but with painful knots in them, so that they felt like two 
+socksful of lumpy custard. 
+
+"Duh, shall we have something to eat, Cindy?" asked Muscles, who had a vague idea 
+that some of the weight on his back was food. 
+
+"Yes, I suppose so. But let's be quick. It must be nearly friday already.." she said, 
+with a worried frown. 
+
+"But Cindy," Shorty panted, "it's only tuesday — Wednesday at the latest.." 
+
+"No. Mr. Whiskas was very sure it was thursday, and so were his friends — I asked 
+them specially." 
+
+"That's because they had their meetings on thursdays and they liked their meetings, 
+so.." 
+
+
+"There you are then. They'd make sure they got the day right wouldn't they! Now, 
+I’ll hear no more about it. We'll have some food and hurry on." Cindy began to 
+rummage in the rucksacks. She rummaged a long while. So much so, that in the end 
+even Shorty came over to see what she was doing. There were tins and packets of 
+
+
+36 
+
+
+
+food, pots and pans, a full range of kitchen tools and cutlery, a portable two-burner 
+and grill stove, and even an electric kettle with attached hand-dynamo in the heap 
+beside her, but she was still murmuring "I can't find it. It's no good. I can't find it 
+anywhere." 
+
+"What are you looking for?" asked Shorty. 
+
+Cindy looked at him pityingly. "Can't you tell? I'm trying to cook us supper, but I 
+can't find the plate-meals or the microwave anywhere. How did that OZIO 
+manage?" 
+
+Shorty took charge again, and burnt them soup and beans for supper. As they were 
+hungry, they ate, even though the food tasted as bad as it smelled. And the smells 
+were awful. They filled the tunnel and drifted into every nook and cranny — where 
+they were picked up by ever-questing scent glands... 
+
+"Duh, that was horrible, Mr. Shorty," said Muscles. Shorty had to agree. 
+
+"He 2, what's that funny noise?" asked Cindy. 
+
+"Duh, sorry, Cind. That's my tummy," answered Muscles. 
+
+"No, not that, Peregrine! There's a sort of tapping, but ever-so regular. You know, 
+like soldiers in a parade, but not really heavy enough for that." 
+
+They listened intently. The Muldoon digestive system rumbled its protests about 
+burnt beans and scorched soup, and as its rumblings died away they all heard the 
+noise that Cindy had picked up. The tramping of millions of tiny feet, coming ever 
+closer down the tunnel towards them! And now they could see them — army ants! A 
+solid mass of them, advancing like a renegade executive carpet. And more from the 
+opposite direction, closing in on them in a pincer movement (or rather a two million 
+pincers movement)! Closer and closer they came, pressing on relentlessly. 
+
+"EEK!!" screamed Cindy. Twelve million feet stamped to a well-drilled halt. 
+
+"Streuth! How did she do that?" exclaimed Shorty. 
+
+Sonar Control. As luck would have it, Cindy's voice hit the perfect pitch for 
+controlling them. 
+
+"EEEEK!!" Cindy screamed again. Twelve million tiny feet stamped forward again 
+in perfect unison. 
+
+"Do it again!" cried Shorty. 
+
+
+37 
+
+
+"I can't. I've hurt my throat,” whispered Cindy. 
+
+"Duh, there's a garden over there, Mr. Shorty." Muscles pointed to a small opening 
+on the opposite side — and it looked as if it was ant-free. The three dived for its 
+cover, then turned to watch the ant attack on their camp. 
+
+"The rucksacks!" hissed Shorty. "You forgot the rucksacks, Muscles!" 
+
+"Duh, sorry, Mr. Shorty. 'Ere, we forgot the Kim as well." 
+
+The ants swept over the piles of food, their rucksacks, the cooking equipment. As 
+they swept on, they devoured everything or reduced it to microscopic rubble. The 
+air above them shimmered with diamond dust. 
+
+The two armies met at the Kim. The brilliant black blankets of barbarous battling 
+bugs surged up over it then paused. Thousands of fierce tiny pincers poised in 
+mid-air, then at an unseen signal, they sank simultaneously into die model. 
+
+It is a well-known fact that ants inject formic acid when they bite. Rather less 
+well-known is the fact that formic acid and Propyle Reoxychloride Ethane Tetra 
+Tricholene Yaminine pollynet (or pretty polly — the material of which the Kim was 
+made) react explosively in air impregnated with baked bean fumes. 
+
+The blast threw the three adventurers back deep into the garden. Tubers and loose 
+earth rained down on top of them. But they were the lucky ones. When they 
+clambered free and looked out again, they saw that the tunnel had acquired a new 
+coat of glossy black paint. Apart from that, it was completely empty. 
+
+"My diamonds!" cried Shorty. 
+
+"My make-up bag!" wailed Cindy. 
+
+"My chest expanders!" complained Muscles. 
+
+"Chest expanders!" Shorty exclaimed. 
+
+"Duh, yes. I like to keep fit, even when I am on ’oliday," Muscles explained. 
+
+But it was no good weeping over lost diamonds, make-up bags or chest-expanders. 
+And as the food had also disappeared, there was nothing to do but try to get out as 
+quickly as possible. They set off again. 
+
+On and on they walked, down tunnels that all looked the same, while the hours 
+turned to days.... 
+
+
+38 
+
+
+
+"We'll never get out of here in time," wailed Cindy. "I'll miss my favourite 
+programme!" 
+
+"Don’t worry," said Shorty, who had enough to cope with without her crying as 
+well. "It's still only thursday." 
+
+"How can it be? We've been here for ages!" she cried. 
+
+Shorty explained it to her. "Look. How many gardens have we passed in these 
+tunnels? Lots, haven't we?" she nodded dumbly. "And were any Edians working in 
+them?" she shook her head. "No," he went on. "That's because it's thursday and they 
+are all at their meetings. So don't worry. You'll get back." 
+
+"Duh, he's right, Cind. We'll be all right." Muscles consoled her. 
+
+They plodded on, kilometre after weary kilometre they walked until they were 
+almost asleep on their feet. On and on they struggled. 
+
+Then at last, when the flickering flame of hope had all but died, Cindy stopped at a 
+cross-tunnels and wrinkled her nose. "Poo! I recognize that smell, don't you?" She 
+sniffed daintily, turning her head to sample the air. "It's coming from that one." She 
+pointed to a dank and dark passage leading off to the left. 
+
+It was narrow and twisting, sloping steadily upwards all the time. At one point water 
+dripped steadily from the roof, forming sludgy puddles on the floor. They were 
+forced to bend more and more as the roof got lower — or the floor got higher, as 
+Whiskas would have put it — until they were crawling on their hands and knees. 
+
+"This has ruined my tights." Cindy complained, "and I've broken lots of nails, and 
+my hair is a mess! Oh why did I ever let you persuade me to do this Peregrine 
+Muldoon?" 
+
+"Duh, I'm sorry, Cind. I thought it would be fun. In fact," he added, with a rare 
+flash of independence, "I think it was fun. Don’t you, Mr. Shorty?" 
+
+Shorty, who was a bit too close to Cindy's heelless high-heels for comfort, replied 
+tactfully. "Well, it had its moments, though it didn't go quite as I had planned, but I 
+think your Cindy was wonderful. You've got a fine lady there, Muscles. You should 
+look after her." He waited for a reaction from Cindy, and he waited for some 
+comments about the diamonds, but nothing came. They were both too busy 
+struggling forwards in the small, smelly tunnel. Shorty smiled quietly to himself. He 
+was going to get out of this with all his diamonds after all. 
+
+"Oo heck!" cried Cindy suddenly. "I've run out of tunnel." 
+
+
+39 
+
+
+
+What?' 
+
+
+"Oo, it's all dark and nasty up here. I can't see anything, but there's no more tunnel. 
+Hang on, the roofs different. It's all hard and flat. You know, like a concrete floor, 
+not like a tunnel roof at all. Poo! It isn't half smelly. I think it's coming in through a 
+crack here." 
+
+"We must be under a floor in the UnderCity!" said Shorty happily. "We've made it. 
+Can you push the top off, Cindy?" 
+
+She tried, but just wasn't strong enough. 
+
+'"Ere, let me try," Muscles offered from his place at the rear. 
+
+"Hold it," said Shorty, as he felt a large hand on his leg and realised that Muscles was 
+going to have to climb over him to get to the tunnel's end. "Let me have a go first." 
+
+Cindy squashed herself against the side of the narrow tunnel so that Shorty could 
+struggle past. It was a tight squeeze at a couple of points as Cindy was a big girl, but 
+Shorty made it. He got his back to the stone flag that covered the end and pushed 
+with all his might. The stone lifted and fell backwards with a reverberating clang. 
+They had made it! Shorty even knew where he was — about a hundred metres from 
+the entrance to the Snake in the Grass. 
+
+
+40 
+
+
+
+10 
+
+
+The fuzbots knew where he was as well. They must have picked up their scrabblings 
+in the tunnels and come to investigate, for as Shorty emerged from the tunnel, a 
+metallic hand felt his collar, and an electronic voice said, "well now, if it isn’t our 
+old mate Shorty Witherspoon. Now then, for various assorted crimes including 
+grand larceny, fraud, impersonating the Kim, being in charge of an uncontrolled 
+happibot, multiple roboticide, leaving Enoch without a permit, attempting to enter 
+Enoch without a permit, and being a threat to public health, you have been fined a 
+total of 45367 credits. If you'll just accompany us down to the body bank, the city of 
+Enoch Health Authority will recover some of that for us." 
+
+"Just a minute.." begged Shorty. 
+
+"Are you resisting arrest?" asked the fuzbot. 
+
+"No, no. Of course not," said Shorty hurriedly. He'd been through that one before 
+with the forest fighters, and was past ducking and weaving. "It's just that if we go to 
+the body bank, you won't get very much, will you?" The fuzbots had to agree. Not 
+only was there not much of him, what there was of him was so shopsoiled it would 
+hardly fetch much. "But if you take me to a jewellers, I can pay the fine — in full!" 
+
+They weren't convinced, but as there was a jewellers on the way to the hospital, they 
+decided there was nothing to lose. "You're not thinking of robbing it while we're 
+there are you?" asked one of the fuzbots. "You'd get fined for that as well." 
+
+It was an interesting idea, especially as the fine for robbing the shop could be less 
+than the value of the haul, given a good lawyer and a sympathetic judge. The profit 
+on the deal might even be enough to pay the lawyer's fees. 
+
+Shorty was marched off by three very thoughtful fuzbots. 
+
+"Have they gone, Cind?" whispered Muscles, when all was quiet again. 
+
+Cindy emerged into the grey light of the UnderCity. It was empty and barren, the 
+only brightness coming from a council clock on a distant wall. She could just read 
+the time and date through its grimy face. "Peregrine!" she cried in excitement. "It's 
+friday, and it's only half past six. If we hurry, we'll be in time for Pallace!" 
+
+At the jewellers, Shorty discovered a hole in his top left pocket; a hole and two small 
+diamonds in his top right pocket; a hole in his bottom left pocket and — oh, heaven 
+helps a poor sinner!" — a handful of diamonds in the bottom right. 
+
+
+41 
+
+
+
+The jeweller sorted through them carefully, sniffing disdainfully — not so much at 
+the quality of the stones, as at the pong that surrounded Shorty. He examined and 
+weighed each stone, tapping at a calculator as each was assessed. Finally he lifted his 
+head and reached out a hand. 
+
+"Credits card if you please, Sir." The last word was squeezed out dutifully. "1 am 
+marking up 45375 credits and seventeen cents." He processed the card and gave it 
+back, wiping his hand on a tissue afterwards. 
+
+"Thank you, Mr. Witherspoon," said a fuzbot, taking the card and slotting it into his 
+deductor and collecting the fine of 45367 credits. "Always a pleasure to do business 
+with you, sir. Good-day." 
+
+Shorty had been rich for almost three seconds. He was now worth eight credits and 
+seventeen cents — just as he had been a week before. Ah, but so much richer in 
+experience! 
+
+
+42 
+
+
+
+
+
+
+R.AJNDDID 
+
+
+RAINBIRD SOFTWARE, WELLINGTON HOUSE 
+UPPER ST. MARTIN'S LANE, LONDON WC2H 9DL 
+
+Rainblrd and the Rainbird Logo are trademarks of British Telecommunications pic. 
+
+
+D1051 
+
+
+

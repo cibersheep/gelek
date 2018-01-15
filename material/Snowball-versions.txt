@@ -1,0 +1,63 @@
+./level9  '/home/cibersheep/Baixades/If_Adventrures-Conversacionales/Level 9/NASCO/SNOWBALL.COM' 
+Level 9 Interpreter
+
+Welcome to Snowball, an adventure with 7K rooms copyright (c) Level 9
+Computing 1983.
+The interstar freezer, Snowball 9, has entered its target starsystem. And it
+will soon enter the star unless you can do something!
+Enter English phrases (without punctuation) to play, Save the Snowball to
+win.
+It is dark, you cannot see
+What now?
+
+
+----------------------------------------------------------------------------------------------------------------
+/level9 '/home/cibersheep/Baixades/If_Adventrures-Conversacionales/Level 9/silicon-dreams-trilogy - Copy Protection/SNOWBALL.DAT' 
+Level 9 Interpreter
+
+
+Welcome to Snowball, the first of the Silicon Dreams, copyright (C) 1986
+Level 9 Computing. (This version allows you to use RAM SAVE and RAM RESTORE
+to save a position in memory, and OOPS to "take back" bad moves).
+It is dark, you cannot see. 
+What now? 
+----------------------------------------------------------------------------------------------------------------
+./level9 '/home/cibersheep/Baixades/If_Adventrures-Conversacionales/Level 9/Silicon-material/snowball-bbc-micro/Snowball (1983)(Level 9)[bootfile].ssd' 
+Level 9 Interpreter
+
+Welcome to Snowball, an adventure with 7K rooms copyright (c) Level 9
+Computing 1983.
+The interstar freezer, Snowball 9, has entered its target starsystem. And it
+will soon enter the star unless you can do something!
+Enter English phrases (without punctuation) to play, Save the Snowball to
+win.
+It is dark, you cannot see
+What now?
+
+
+----------------------------------------------------------------------------------------------------------------
+./level9 '/home/cibersheep/Baixades/If_Adventrures-Conversacionales/Level 9/Atom/L9/SNOWBALL' 
+Level 9 Interpreter
+
+Welcome to Snowball, an adventure with 7K rooms copyright (c) Level 9
+Computing 1983.
+The interstar freezer, Snowball 9, has entered its target starsystem. And it
+will soon enter the star unless you can do something!
+Enter English phrases (without punctuation) to play, Save the Snowball to
+win.
+It is dark, you cannot see
+What now?
+
+----------------------------------------------------------------------------------------------------------------
+./level9 '/home/cibersheep/Baixades/If_Adventrures-Conversacionales/Level 9/level9-de-ifdb/SNA/V3/SNOWBALL.SNA' 
+Level 9 Interpreter
+
+
+Welcome to Snowball, the first of the Silicon Dreams, copyright (C) 1986
+Level 9 Computing.
+The colony freezer ship, Snowball 9, has entered its target star system and
+it will soon collide with the star unless you can do something!
+It's dark, you cannot see. 
+What now? 
+
+----------------------------------------------------------------------------------------------------------------
