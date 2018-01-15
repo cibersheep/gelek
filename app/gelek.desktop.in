@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Gelek
+Comment=Interactive Fiction interpreter based on remglk
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#842244
+X-Ubuntu-Splash-Image=@SPLASHSCREEEN@

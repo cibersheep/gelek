@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="96" viewBox="0 0 96 96.000001" width="96" version="1.1">
+ <g transform="translate(67.86 -78.51)">
+  <g transform="matrix(0 -1 -1 0 373.5 516.5)">
+   <g transform="matrix(-.9996 0 0 1 575.9 -611)">
+    <g transform="matrix(-1 0 0 1 576 611)">
+     <rect style="color:#000000" transform="scale(-1)" height="96" width="96.04" y="-441.4" x="-438" fill="none"/>
+     <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;shape-rendering:auto;font-variant-ligatures:normal;text-decoration-line:none;font-variant-position:normal;mix-blend-mode:normal;solid-color:#000000;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;dominant-baseline:auto;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;text-orientation:mixed;isolation:auto;text-transform:none" d="m27 8v32h39v-32h-8.07v24h-7.86v-24z" transform="matrix(0 -1 -1 0 438 441.4)" fill="#808080"/>
+     <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;font-variant-numeric:normal;shape-rendering:auto;font-variant-ligatures:normal;text-decoration-line:none;font-variant-position:normal;mix-blend-mode:normal;solid-color:#000000;font-feature-settings:normal;shape-padding:0;font-variant-alternates:normal;text-indent:0;font-variant-caps:normal;image-rendering:auto;white-space:normal;text-decoration-style:solid;text-orientation:mixed;isolation:auto;text-transform:none" d="m358 433.4c-2.631 0-4.716-0.2379-6.471-0.8965s-3.159-1.85-3.99-3.355c-1.662-3.011-1.485-6.694-1.543-11.73v-48.04c0.0582-5.033-0.1191-8.715 1.543-11.73 0.831-1.506 2.235-2.697 3.99-3.355 1.755-0.6586 3.839-0.8965 6.471-0.8965h56.85l19.18 15.17v48.85c-0.0582 5.033 0.1191 8.715-1.543 11.73-0.831 1.506-2.235 2.697-3.99 3.355-1.755 0.6586-3.839 0.8965-6.471 0.8965zm0-4.002h64.03c2.371 0 4.024-0.2503 5.064-0.6406s1.49-0.8094 1.895-1.543c0.8082-1.464 0.9861-4.778 1.045-9.816v-47.2l-16.84-12.83h-55.19c-2.371 0-4.024 0.2503-5.064 0.6406s-1.49 0.8094-1.895 1.543c-0.8084 1.465-0.9862 4.777-1.045 9.816v47.99c0.0588 5.038 0.2367 8.352 1.045 9.816 0.4049 0.7335 0.8543 1.153 1.895 1.543 1.04 0.3903 2.694 0.6406 5.064 0.6406z" fill="#808080"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
